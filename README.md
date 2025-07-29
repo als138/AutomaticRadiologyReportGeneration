@@ -1,77 +1,94 @@
-# medgemmaWithRAG
-Automatic Radiology Report Generation using RAG and LLMs
-This project is an end-to-end pipeline for the automatic generation of CT scan reports using a combination of Vision-Language Models (VLMs) and Large Language Models (LLMs). The system leverages a RAG (Retrieval-Augmented Generation) architecture to enhance the accuracy and contextual relevance of the generated reports by referencing a local knowledge base.
+# Automatic Radiology Report Generation using RAG and LLMs
 
-Project Architecture
-The project utilizes a two-stage process to convert an input image into a structured text report:
+A full end-to-end pipeline for automatic generation of CT scan reports using Vision–Language Models (VLMs) and Large Language Models (LLMs), with a RAG (Retrieval‑Augmented Generation) architecture to boost accuracy via a local knowledge base.
 
-1. Image Analysis: A Vision-Language Model (VLM) analyzes the CT scan image and extracts preliminary findings as a text string.
-2. RAG-Enhanced Report Generation: The preliminary findings, augmented with similar reports retrieved from a knowledge base, are fed into a Large Language Model (LLM) to generate the final, structured report.
+---
 
-[CT Image] -> [LLaVA Vision Model] -> [Preliminary Findings (Text)] -> [RAG Retriever (FAISS)] -> [Gemma LLM] -> [Final Report]
-Features
-End-to-End Pipeline: A complete workflow from image input to structured text report output.
+## 🏗️ Project Architecture
 
-Local Execution: All models run locally to ensure data privacy and security.
+The system consists of two main stages:
 
-RAG-Based: Generates more accurate and consistent reports by leveraging your existing report archive.
+1. **Image Analysis**  
+   A VLM (e.g. LLaVA) processes the CT scan image and outputs preliminary findings in text.
 
-Customizable: Easily swap out the LLM, VLM, and embedding models to suit your needs.
+2. **RAG‑Enhanced Report Generation**  
+   Preliminary findings are augmented with similar reports retrieved from a local FAISS knowledge base, and fed into an LLM (e.g. Gemma) to generate a structured final report.
 
-Technology Stack
-Large Language Model (LLM): google/gemma-7b-it (or google/gemma-2b)
+**Pipeline Flow:**
 
-Vision-Language Model (VLM): llava-hf/llava-1.5-7b-hf
+```
+[CT Image] → [LLaVA Vision Model] → [Preliminary Findings (Text)]
+               ↓                                ↓
+      [RAG Retriever: FAISS] → → → → → → → → [Gemma LLM] → [Final Report]
+```
 
-Embedding Model: pritamdeka/S-BioBert-snli-multinli-stsb
+---
 
-Vector Database: FAISS (Facebook AI Similarity Search)
+## 🔍 Features
 
-Frameworks: LangChain, Transformers, PyTorch
+- **End‑to‑End Pipeline**: From image input to structured text output  
+- **Local Execution**: Full operation locally to preserve privacy  
+- **RAG‑Based**: Retrieves similar historical reports to increase accuracy and coherence  
+- **Highly Customizable**: Swap LLM, VLM, or embedding models to fit your needs
 
-⚡ Setup and Installation
-Follow these steps to get the project up and running.
+---
 
-1. Prerequisites
-Python 3.10+
+## ⚙️ Technology Stack
 
-Git
+- **LLM**: `google/gemma-7b-it` (or `google/gemma-2b`)  
+- **VLM**: `llava‑hf/llava‑1.5‑7b‑hf`  
+- **Embedding Model**: `pritamdeka/S‑BioBert‑snli‑multinli‑stsb`  
+- **Vector DB**: FAISS (Facebook AI Similarity Search)  
+- **Frameworks**: LangChain, Transformers, PyTorch
 
-An NVIDIA GPU with at least 16GB of VRAM (24GB recommended).
+---
 
-2. Clone the Repository
-Bash
+## 🚀 Setup and Installation
 
-git clone <YOUR-REPOSITORY-URL>
-cd <YOUR-PROJECT-DIRECTORY>
-3. Directory Structure
-Ensure you have the following directory structure in your project root:
+### 1. Prerequisites
 
+- Python 3.10+  
+- Git  
+- NVIDIA GPU (min. 16 GB VRAM; 24 GB recommended)
+
+### 2. Clone the Repository
+
+```bash
+git clone <YOUR‑REPOSITORY‑URL>
+cd <YOUR‑PROJECT‑DIRECTORY>
+```
+
+### 3. Directory Structure
+
+Ensure your project root matches the following layout:
+
+```
 /
-|-- /data_reports           # Place all your .txt report files here
-|-- /test_images            # Place sample CT scan images here
-|-- /vector_store           # The vector database will be created here
+|-- data_reports/       # All .txt medical report files
+|-- test_images/        # Sample CT scan images
+|-- vector_store/       # Directory where FAISS stores vectors
 |-- 1_prepare_knowledge_base.py
 |-- 2_generate_report.py
-`-- README.md
-4. Install Dependencies
-It is highly recommended to use a Python virtual environment.
+└-- README.md
+```
 
-Bash
+### 4. Install Dependencies
 
-# Create and activate a virtual environment
+Use a virtual environment:
+
+```bash
 python -m venv venv
-# On Windows:
+# Windows
 venv\Scripts\activate
-# On Linux/macOS:
+# Linux/macOS
 source venv/bin/activate
 
-# Install the required libraries from requirements.txt
 pip install -r requirements.txt
-Note: Your requirements.txt file should contain the following:
+```
 
-Plaintext
+**requirements.txt** should include:
 
+```
 torch
 torchvision
 torchaudio
@@ -79,58 +96,81 @@ langchain
 langchain-community
 transformers
 sentence-transformers
-faiss-cpu # or faiss-gpu if on Linux
+faiss-cpu    # or faiss-gpu if on Linux
 bitsandbytes
 accelerate
 pypdf
 unstructured
 Pillow
-🚀 How to Use
-1. Prepare Data
-Place all your anonymized, plain-text medical reports (as .txt files) into the data_reports folder.
+```
 
-2. Hugging Face Authentication
-You need to authenticate with Hugging Face to download the Gemma models.
+---
 
-Bash
+## 🎯 How to Use
 
-# Log in using the command line
+### 1. Prepare Data  
+Place anonymized `.txt` medical report files into `data_reports/`.
+
+### 2. Hugging Face Authentication  
+
+```bash
 huggingface-cli login
-Then, visit the following model pages and accept their terms of service:
+```
 
-google/gemma-7b-it
+Accept terms for:
 
-llava-hf/llava-1.5-7b-hf
+- `google/gemma-7b-it`  
+- `llava‑hf/llava‑1.5‑7b‑hf`
 
-3. Build the Knowledge Base
-Run the following script to process your reports and create the vector database. This only needs to be run once.
+### 3. Build the Knowledge Base  
 
-Bash
-
+```bash
 python 1_prepare_knowledge_base.py
-4. Generate a Report
-Place a sample CT scan image (e.g., sample.jpg) into the test_images folder.
+```
 
-Ensure the TEST_IMAGE_PATH variable in 2_generate_report.py points to your test image.
+### 4. Generate a Report  
 
-Run the main script to generate the report:
+- Place a CT scan sample (e.g. `sample.jpg`) into `test_images/`  
+- Update `TEST_IMAGE_PATH` in `2_generate_report.py`  
+- Run:
 
-Bash
-
+```bash
 python 2_generate_report.py
-After a few moments (depending on your hardware), the final report will be printed to the console.
+```
 
-⚙️ Configuration
-You can easily configure the models and key parameters at the top of the 2_generate_report.py file:
+The final report will appear in the console.
 
-LLM_MODEL_ID: The identifier for the Large Language Model.
+---
 
-VLM_MODEL_ID: The identifier for the Vision-Language Model.
+## ⚙️ Configuration
 
-TEST_IMAGE_PATH: The path to the input image for testing.
+Update the following parameters at the top of `2_generate_report.py`:
 
-⚠️ Important Disclaimer
-This project is a research tool and a Proof of Concept (PoC). The output generated by this system should NEVER be used for actual clinical diagnosis or medical decision-making. All generated reports must be reviewed, edited, and verified by a qualified human radiologist.
+- `LLM_MODEL_ID`  
+- `VLM_MODEL_ID`  
+- `TEST_IMAGE_PATH`
 
-📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+---
+
+## ⚠️ Disclaimer
+
+This project is strictly a research Proof of Concept.  
+**The generated reports MUST be reviewed and verified by a qualified human radiologist.**  
+Do not use outputs for clinical diagnosis or medical decisions.
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.  
+See the `LICENSE` file in the repository for more details.
+
+---
+
+## ℹ️ Further Customization
+
+- Add **Usage Examples** (include sample inputs and expected outputs)  
+- Include **Badge Icons** (e.g. CI status, test coverage, version) at the top  
+- Add sections like **Contribution Guidelines** or **Code of Conduct**
+
+If you'd like help with any of the above (such as adding badges or example screenshots), just let me know—I’d be happy to assist! 😊
