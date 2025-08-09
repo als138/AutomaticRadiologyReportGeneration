@@ -1,8 +1,0 @@
-tap2MULTISLICE CT SCAN OF TEMPORAL BONES
-tap2The study was performed in axial views obtaining sagittal ,coronal and three dimensional reconstructed views more focusing bone window settings.
-External auditory canal ,tympanic cavity including ossicles, eustachian tube , cochlea and internal acoustic meatus are normal bilaterally.
-Mastoid air cells are also well developed.
-tap2 row0rowband0Width1Width3Width9818row1rowband1-108Width1WidthB3WidthA3Width3Width9854d
-A mass lesion ( 9*5/5 mm ) is seen in left external Auditory canal with bone density which can be osteoma .
-Correlation with history and physical exam is recommended.
-DX:Bony mass lesion in left external Auditory canal (R/O osteoma).

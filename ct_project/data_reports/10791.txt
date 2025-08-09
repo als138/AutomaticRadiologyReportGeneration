@@ -1,7 +1,0 @@
-MULTI
-SLICE CT VIRTUAL COLONOSCOPY
-The study was performed with appropriate bowel preparation in prone and supine positions obtaining reconstructed views.
-Recto sigmoid and descending colon well seen with no abnormality as infiltrative mass lesion or lumenal narrowing.
-Transverse and ascending colon including cecum are also well seen with normal wall thickness.
-Spondylolisthesis grade I L4 on L5 is seen.
-DX:Normal study of the colon.

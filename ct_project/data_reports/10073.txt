@@ -1,8 +1,0 @@
-MULTI
-SLICECT SCAN OF THE THORAX WITH CONTRAST
-The study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.
-Enlarged lymph nodes are seen in both hilums and posterior mediastineum.
-Numerous varying size pulmonary nodules are seen in both lungs.
-Bony thorax is normal.
-DX:)Mediastineal or hilar adenopathy.
-2)Pulmonary metastasis

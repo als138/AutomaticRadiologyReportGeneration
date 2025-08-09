@@ -1,9 +1,0 @@
-MULTI
-SLICECT SCAN OF THE THORAX WITH CONTRAST
-The study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.
-Lung parenchyma is clear with no active infiltration.
-A small pulmonary nodule is seen in anterior aspect of right middle lobe which is not seen in previous study
-Some small nonpathologic sized mediastinal lymphnodes are seen.
-No hilar or mediastinal mass is present.
-Bony thorax is normal.
-DX:Single pulmonary nodule in RML (new finding).

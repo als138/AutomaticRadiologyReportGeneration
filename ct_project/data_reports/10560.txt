@@ -1,7 +1,0 @@
-MULTI
-SLICE CT SCAN OFTHE CHEST WITHOUT CONTRAST
-The study was performedin axial views obtaining coronal reconstructed views.Lung parenchyma is clear with no active infiltration.
-Nodular pleural thickening in rt hemithorax with pleural effusion and linear shadowing and stranding in RLL are noted due to previous `pathology(mesothelioma)
-Lt lung and lt pleural space are intact
-No significant mediastinal or hilar adenopathies are seen
-DX:Rt pleural effusion and nodular pleural thickening (mesothelioma)

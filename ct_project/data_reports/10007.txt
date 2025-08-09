@@ -1,9 +1,0 @@
-MULTI
-SLICE CT SCAN OFTHE NECK WITH CONTRAST
-The study was performed administering intravenous contrast and vascular structures are well demarcated.
-There are multiple lymphnodes in posterior cervical spaces and supraclavicular space with maximum short axis of 9mm
-Jugular space also show multiple lymphnodes with maximum short axis of 10mm
-Nasopharyngeal cavity and parapharyngeal spaces are normal.
-No cervical mass or adenopathy is present.
-Laryngeal cavity is intact.
-DX:Stable disease..

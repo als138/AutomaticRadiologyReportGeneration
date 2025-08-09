@@ -1,9 +1,0 @@
-MULTI
-SLICE CT SCAN OFTHE NECK WITH CONTRAST
-The study was performed administering intravenous contrast and vascular structures are well demarcated.
-Nasopharyngeal cavity and parapharyngeal spaces are normal.
-Parotid and submandibular glands are normal.
-No cervical mass or adenopathy is present.
-Laryngeal cavity is intact.
-There are nonsignificant lymphnodes (short axis of 7mm)in base of neck(previous LAPS show valume loss)
-DX:No significant adenopathy.

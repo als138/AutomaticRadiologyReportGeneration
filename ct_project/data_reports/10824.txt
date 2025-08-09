@@ -1,8 +1,0 @@
-MULTI
-SLICE CT SCAN OFTHE NECK WITH CONTRAST
-The study was performed administering intravenous contrast and vascular structures are well demarcated.
-Nasopharyngeal cavity and parapharyngeal spaces are normal.
-No cervical mass or adenopathy is present.
-A few smaller than 7mm submaxillary adenopathies are noted.
-Laryngeal cavity is intact.
-DX:Normal study of the neck.

@@ -1,9 +1,0 @@
-.
-MULTI
-SLICECT SCAN OF THE THORAX WITH CONTRAST
-The study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.
-Lung parenchyma is clear with no active infiltration.
-Some small non pathologic sized lymphnodes are seen
-A small pulmonary nodule (4/8mm) is noted in left upper lobe
-Bony thorax is normal.
-DX:Single pulmonary nodule in LUL.

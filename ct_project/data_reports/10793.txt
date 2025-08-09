@@ -1,9 +1,0 @@
-MULTI
-SLICE CT SCAN OFTHE NECK WITH CONTRAST
-The study was performed administering intravenous contrast and vascular structures are well demarcated.
-Nasopharyngeal cavity and parapharyngeal spaces are normal.
-Laryngeal cavity is intact.
-An enhancible mass lesion (42*21 mm) is seen in posterior triangle at the root of neck at right side .
-Biopsy is recommended.
-Multiple lymphnodes are seen bilaterally with Max short axis of 7/5 mm.
-DX:Enhancible mass lesion at the right side (Biopsy is recommended).

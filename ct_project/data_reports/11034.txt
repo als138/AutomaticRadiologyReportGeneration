@@ -1,7 +1,0 @@
-MULTI
-SLICE CT SCAN OFTHE NECK WITH CONTRAST
-The study was performed administering intravenous contrast and vascular structures are well demarcated.
-Nasopharyngeal cavity and parapharyngeal spaces are normal.
-No cervical mass or adenopathy is present.
-Asymmetric mucosal thickening of laryngeal cavity in patient with known SCC of right TVC is noted
-DX:Asymmetric mucosal thickening of laryngeal cavity

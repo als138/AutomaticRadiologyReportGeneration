@@ -1,7 +1,0 @@
-.MULTI SLICE CT SCAN OF THE MANDIBLE
-The study was performedin axial views obtaining panoramic, paraxial and three dimensional images.
-There is a mixed density expansile mass in mandible in left side of midline.
-No obvious cortical disruption is noted .
-No soft tissue component is present.
-No cervical adenopathy is seen .
-DX:Expansile mass of mandible in left side of midline.

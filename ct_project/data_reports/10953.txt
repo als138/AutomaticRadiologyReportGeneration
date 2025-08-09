@@ -1,8 +1,0 @@
-MULTI
-SLICE CT SCAN OFTHE NECK WITH CONTRAST
-The study was performed administering intravenous contrast and vascular structures are well demarcated.
-Nasopharyngeal cavity and parapharyngeal spaces are normal.
-Parotid and submandibular glands are normal.
-Laryngeal cavity is intact.
-A soft tissue mass(congleromerate LAPS)50*25mm in diamention in the rt postero lateral space of neck(posterior to S.C. muscle)is seen
-DX:Soft tissue mass(LAPS) in the rt posterior triangle of neck.

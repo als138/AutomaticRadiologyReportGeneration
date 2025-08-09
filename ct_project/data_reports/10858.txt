@@ -1,8 +1,0 @@
-MULTI
-SLICECT SCAN OF THE THORAX WITH CONTRAST
-The study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.
-Lung parenchyma is clear with no active infiltration.
-No hilar or mediastinal mass or adenopathy is present.
-Bony thorax is normal.
-A pulmonary nodule(10mm)in the RLL is seen
-DX:Single pulmonary nodule(RLL)
