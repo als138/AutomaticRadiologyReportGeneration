@@ -1,0 +1,7 @@
+.
+MULTI
+SLICE CT SCAN OFTHE CHEST WITHOUT CONTRAST
+The study was performedin axial views obtaining coronal reconstructed views.No hilar or mediastinal mass or adenopathy is present.
+No mass lesion is seen as primary or secondary in lung fields.
+Bony thorax is normal.COPD changes are seen in both lungs
+DX:COPD

@@ -1,0 +1,9 @@
+MULTI
+SLICECT SCAN OF THE THORAX WITH CONTRAST
+The study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.
+Lung parenchyma is clear with no active infiltration.
+Mosaic appearance of lung parenchymal due to hypo perfusion and air trapping is seen
+Mediastinal adenopathies of 8,10,11mm in prevascular space and 8-9mm in right partracheal region are noted.
+No hilar or mediastinal mass is present.
+Bony thorax is normal.
+DX:Medistinal adenopathies.

@@ -1,0 +1,13 @@
+.MULTI
+SLICECT SCAN OF THE THORAX WITH CONTRAST
+( PTE PROTOCOL )
+The study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.
+Multiple fillings defects are
+seen in main pulmonary trunk extending downward lobar and segmental and subsegmental branch.
+A small filling defectsis seen in left main pulmonary aretery as well as multiple filling defectectsin lobar branches extending downward into segmental and sub segmental branches.
+Mild right sided pleural effusion is noted .
+Lung parenchyma is clear with no active infiltration.
+No mass lesion is seen as primary or secondary in lung field.
+No hilar or mediastinal mass or adenopathy is present.
+Bony thorax is normal.
+DX:Acute mussive pulmonary tromboebolism.

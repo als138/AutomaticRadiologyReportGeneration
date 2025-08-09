@@ -1,0 +1,8 @@
+MULTI
+SLICECT SCAN OF THE BRAIN WITHOUT CONTRAST
+The study was performed in axial views obtaining coronal and sagittal reconstructed views.
+Cortical sulci and gyri, white matter and basal ganglia are normal.
+Posterior fossa including CP angle are also intact.
+Sellar region and orbits are normal.
+Focal mucosal thickening of left maxillary sinus is noted.
+DX:Normal brain CT

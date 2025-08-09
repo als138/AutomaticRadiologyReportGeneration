@@ -1,0 +1,10 @@
+MULTI
+SLICE CT SCAN OF FACIAL BONE
+The study was performed in axial views obtaining sagittal ,coronal and three dimensional reconstructed views more focusing bone window settings.
+TM joints are normal.
+Maxillary alveolar ridge and sinuses are intact.
+Zygoma is normal.
+No soft tissue mass is seen.
+Fx is seen in parasymphisis and body of mandible in right side.
+DX :
+Mandibular FX .

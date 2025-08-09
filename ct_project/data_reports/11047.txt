@@ -1,0 +1,9 @@
+.MULTI
+SLICE HRCT SCAN OFTHE LUNGS
+The study was performedin axial views obtaining Inspiratory or expiratory images more focusing lung window setting.
+Cardiomegaly and calcification of aortic arch as well as coronary arteries suggestive of atherosclerotic heart diseaseare noted.
+Multifocal hypoattenuation of both lung base consistent with air trapping
+No active parenchymal infiltration primary or secondary nodule is seen.No evidence of bronchiectasia is evident.
+Pleural cavity is normal
+DX:)Atherosclerotic heart disease
+2)Air trapping.

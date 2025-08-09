@@ -1,0 +1,165 @@
+CT SCAN REPORTS COMPARISON
+Generated on: 2025-07-30 12:18:12
+====================================================================================
+
+1. English Report WITHOUT RAG
+======================================================================
+FINDINGS:
+IMPRESSION:
+```text
+FINDINGS:
+*   Lungs: No evidence of acute pulmonary embolism (PE) or pneumonia. The lung parenchyma appears clear bilaterally. There is no pleural effusion or pneumothorax identified within the limitations of this study.
+*   Heart: Cardiomediastinal silhouette is within normal limits. No evidence of significant pericardial effusion.
+*   Abdomen/Pelvis: Liver, spleen, kidneys, and bowel loops appear unremarkable. No evidence of free air or large hematoma.
+*   Bones: No acute fractures visualized.
+*   Vascular: No obvious aortic dissection or aneurysmal dilation
+IMPRESSION:
+Overall, the CT scan demonstrates no acute abnormalities.
+```
+```text
+FINDINGS:
+*   Lung fields: Clear. No consolidation, nodules, or masses noted.
+*   Mediastinum: Normal appearance. No widening or suspicious lymphadenopathy detected.
+*   Cardiac silhouette: Within normal limits.
+*   Abdomen and pelvis: No gross abnormality apparent. Bowel loops are non-dilated, and there is no evidence of free fluid or abscesses.
+*   Skeletal structures: No acute fractures identified.
+IMPRESSION:
+No acute findings identified.
+```
+```text
+FINDINGS:
+*   Lungs: No focal consolidations, effusions, or pneumothoraces are seen. The lung architecture appears normal.
+*   Heart and great vessels: Cardiac size is within normal limits. No evidence of mediastinal mass effect or vascular abnormalities such as dissection or aneurysm.
+*   Abdomen: No acute abdominal pathology is evident. The liver, spleen, pancreas, and kidneys appear within normal limits. No signs of bowel obstruction or perforation.
+*   Bones: No acute fractures are visible.
+*   Soft tissues: No soft tissue masses or concerning lesions are identified.
+IMPRESSION:
+The CT scan shows no acute findings.
+```
+```text
+FINDINGS:
+*   Lungs: No pleural effusion, pneumothorax, or focal consolidation observed. Lung markings are present throughout both lungs.
+*   Cardiac Silhouette: Normal in size and shape.
+*   Aorta: No evidence of aneurysm or dissection.
+*   Abdomen: No free fluid or organomegaly appreciated. Bowel gas pattern is unremarkable.
+*   Bones: No acute fracture is identified.
+*   Other: No other significant findings noted.
+IMPRESSION
+------------------------------------------------------------------------------------
+
+2. Persian Report WITHOUT RAG
+======================================================================
+یافته‌ها:
+نتیجه‌گیری:
+```persian
+**گزارش تصویربرداری با کامپیوتر (CT)**
+**مرجع:** [نام بیمار]، [شماره پرونده]
+**تاریخ و زمان تصویربرداری:** [تاریخ و زمان]
+**دستگاه CT:** [مدل دستگاه CT]
+**هدف از تصویربرداری:** [هدف از تصویربرداری]
+**یافته‌ها:**
+*   [یافته‌ای مرتبط با ناحیه مورد نظر، به عنوان مثال:  "در ناحیه [ناحیه مورد نظر] مشاهده می‌شود که"]
+*   [یافته‌ای مرتبط با ناحیه مورد نظر، به عنوان مثال: "هیچ تغییرات معنی‌داری در [ناحیه مورد نظر] وجود ندارد."]
+*   [یافته‌ای مرتبط با ناحیه مورد نظر، به عنوان مثال: "توده [نوع توده] در [موقعیت توده] با قطر [قطر توده] مشاهده می‌شود."]
+*   [یافته‌ای مرتبط با ناحیه مورد نظر، به عنوان مثال: "گرفتگی [نوع گرفتگی] در [موقعیت گرفتگی] دیده می‌شود."]
+*   [یافته‌ای مرتبط با ناحیه مورد نظر، به عنوان مثال: "بیماری گسترش نیافته است."]
+*   [یافته‌ای مرتبط با ناحیه مورد نظر، به عنوان مثال: "میله‌های عظمتی در [موقعیت میله‌های عظمتی] دیده می‌شوند."]
+*   [یافته‌ای مرتبط با ناحیه مورد نظر، به عنوان مثال: "هیپرادنسیت در [موقعیت هیپرادنسیت] مشاهده می‌شود."]
+**نتیجه‌گیری:**
+*   [نتیجه‌گیری کلی بر اساس یافته‌ها، به عنوان مثال: "بر اساس یافته‌های فوق، توصیه می‌شود که"]
+*   [نتیجه‌گیری کلی بر اساس یافته‌ها، به عنوان مثال: "پیشنهاد می‌شود برای بررسی بیشتر این موارد، انجام [نوع آزمایش/تصویربرداری] صورت گیرد."]
+*   [نتیجه‌گیری کلی بر اساس یافته‌ها، به عنوان مثال: "در حال حاضر هیچ نگرانی جدی وجود ندارد."]
+**امضا:**
+[نام شما]، متخصص رادیولوژی
+```
+**مثال (با فرض یک تصویر ساده):**
+**گزارش تصویربرداری با کامپیوتر (CT)**
+**مرجع:** خانم مریم محمدی، 123456
+------------------------------------------------------------------------------------
+
+3. English Report WITH RAG
+======================================================================
+[Document(id='28c29cb7-a66b-4def-9a3f-823fbd7c984e', metadata={'source': 'data_reports\\10103.txt'}, page_content='MULTI\n\nSLICECT SCAN OF THE ABDOMEN AND PELVIS\n\nWITH CONTRAST\n\nThe study was performedadministering oral and intravenous contrast, Sagittal and coronal reconstructed views were also obtained.\n\nMultiple retroperitoneal masses a mentioned in previous study(91/9/28)superior to lt kidney(18*36mm)inferior to lt kidney (31*16mm)lateral to rt kidney (112*71*76mm)still are present and show mild decreased valume\n\nLiver is normal in size, shape and density w\n\nith no space occupying lesion or biliary dilatation.\n\nSpleen and pancreas are also normal with no S.O.L\n\nThe kidneys are opacified with no hydronephrosis.\n\nNo paraaortic or paracaval adenopathy is present.\n\nPelvic organs are normal.\n\nDX:) Retroperitoneal masses)As compared previous study(91/9/28)show mild decreased valume'), Document(id='9218581e-e653-4a72-97e9-aaa5212dfa74', metadata={'source': 'data_reports\\10656.txt'}, page_content='MU\n\nLTISLICECT SCAN OF THE ABDOMEN AND PELVIS\n\nWITH CONTRAST\n\nThe study was performedadministering oral and intravenous contrast, Sagittal and coronal reconstructed views were also obtained.\n\nA large mass lesion approximately measured 77*57mm at the site of lt adren\n\nal gland is seen could be due to metastasis or malignant primary lesion(pheochromo cystoma,sarcoma)\n\nLt pleural effusion and mild pericardiac effusio also are seen\n\nLiver is normal in size, shape and density with no space occupying lesion or biliary dilatation.\n\nSpleen and pancreas are also normal with no S.O.L\n\nThe kidneys are opacified with no hydronephrosis.\n\nA simple cyst (20mm)in lt kidney is seen\n\nNo paraaortic or paracaval adenopathy is present.\n\nPelvic organs are normal.\n\nDX:Lt adrenal mass'), Document(id='d558bb36-aaa2-4adb-a0ed-c02c7240599a', metadata={'source': 'data_reports\\10058.txt'}, page_content='MULTI\n\nSLICECT SCAN OF THE ABDOMEN AND PELVIS\n\nWITH CONTRAST\n\nThe study was performedadministering oral and intravenous contrast, Sagittal and coronal reconstructed views were also obtained.\n\nA soft tissue mass approximately measured 108*56mm with peripheral fat strandying in favoure of peritoneal and mesantric seeding of tumor in the left sided of abdomen is seen.\n\nA focal ass\n\nymetric mass like wall thickening of part of jejunalloop in central of abdomen at the level L4 vertebral body approximately measured 39*15mm also is noted most likely due to residual tumor.\n\nLiver is normal in size, shape and density with no space occupying lesion or biliary dilatation.\n\nSpleen and pancreas are also normal with no S.O.L\n\nThe kidneys are opacified with no hydronephrosis.\n\nNo paraaortic or paracaval adenopathy is present.\n\nPelvic organs are normal.\n\nDX:)Recurrance/residual tumor\n\n)Local mesa\n\nnteric and peritoneal seeding in Lt sided of abdomen'), Document(id='b6cda4f9-dd10-4b9c-a822-92cbfb0f1202', metadata={'source': 'data_reports\\10620.txt'}, page_content='MU\n\nLTISLICECT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.\n\nRt pleural effusion with partial collapse with considation (band like)of RLL are seen\n\nA subpleural nodule with diameter of 14mm in midzone of lt hemithorax is noted\n\nOtherwise of the study are unremarkable\n\nDX:)RLL partial collapse and bank like opacities)Rt pleural effusion\n\n3)SPN in lt lunge'), Document(id='a2eae3df-a8f0-4cb3-aed4-e00814d928a7', metadata={'source': 'data_reports\\10595.txt'}, page_content='MU\n\nLTISLICECT SCAN OF THE ABDOMEN AND PELVIS\n\nWITH CONTRAST\n\nThe study was performedadministering oral and intravenous contrast, Sagittal and coronal reconstructed views were also obtained.\n\nA soft tissue mass like lesion about 30*40mm at lt side (anteromedial lt kidney)of abdomen justifable with residue/recurrance tumor are seen\n\nSpan of spleen is 77mm(high normal)\n\nLiver is normal in size, shape and density with no space occupying lesion or biliary dilatation.\n\nThe kidneys are opacified with no hydronephrosis.\n\nNo paraaortic or paracaval adenopathy is present.\n\nPelvic organs are normal.\n\nDX:)R/O residual/recurrance tumor(anterior to lt kidney))Correlation with MIBG scinitigraphy and sonographic findinges is\n\nrecommended.')]
+FINDINGS:
+IMPRESSION:
+```json
+{
+"report_id": "unknown",
+"date": "October 27, 2023",
+"patient": "unknown",
+"images": [
+{
+"type": "CT Abdomen and Pelvis with Contrast",
+"series": "Multi-slice computed tomography scan of the abdomen and pelvis with contrast.",
+"findings": {
+"retroperitoneal_masses": [
+{
+"location": "Superior to left kidney",
+"size": "18 x 36 mm",
+"density": "Mildly decreased volume."
+},
+{
+"location": "Inferior to left kidney",
+"size": "31 x 16 mm",
+"density": "Mildly decreased volume."
+},
+{
+"location": "Lateral to right kidney",
+"size": "112 x 71 x 76 mm",
+"density": "Mildly decreased volume."
+}
+],
+"left_adrenal_mass": {
+"location": "Left Adrenal Gland",
+"size": "Approximately 77 x 57 mm",
+"description": "Could be due to metastasis or malignant primary lesion (pheochromocytoma, sarcoma)."
+},
+"left_kidney_cyst": {
+"location": "Left Kidney",
+"size": "20 mm",
+"description": "Simple cyst."
+},
+"abdominal_mass": {
+"location": "Left side (anteromedial left kidney)",
+"size": "Approximately 30 x 40 mm",
+"description": "Justifiable with residue/recurrence tumor."
+},
+"right_lung_collapse": {
+"location": "Right Lower Lung (RLL)",
+"description": "Partial collapse with consolidation (band-like opacities). Pleural effusion."
+},
+"other_findings": [
+{"finding": "Spinal Mass", "location": "Lung", "size": "14mm"},
+{"finding": "Splenic Span", "value": "77mm (high normal)"},
+{"finding": "Periportal fat", "
+------------------------------------------------------------------------------------
+
+4. Persian Report WITH RAG
+======================================================================
+[Document(id='28c29cb7-a66b-4def-9a3f-823fbd7c984e', metadata={'source': 'data_reports\\10103.txt'}, page_content='MULTI\n\nSLICECT SCAN OF THE ABDOMEN AND PELVIS\n\nWITH CONTRAST\n\nThe study was performedadministering oral and intravenous contrast, Sagittal and coronal reconstructed views were also obtained.\n\nMultiple retroperitoneal masses a mentioned in previous study(91/9/28)superior to lt kidney(18*36mm)inferior to lt kidney (31*16mm)lateral to rt kidney (112*71*76mm)still are present and show mild decreased valume\n\nLiver is normal in size, shape and density w\n\nith no space occupying lesion or biliary dilatation.\n\nSpleen and pancreas are also normal with no S.O.L\n\nThe kidneys are opacified with no hydronephrosis.\n\nNo paraaortic or paracaval adenopathy is present.\n\nPelvic organs are normal.\n\nDX:) Retroperitoneal masses)As compared previous study(91/9/28)show mild decreased valume'), Document(id='9218581e-e653-4a72-97e9-aaa5212dfa74', metadata={'source': 'data_reports\\10656.txt'}, page_content='MU\n\nLTISLICECT SCAN OF THE ABDOMEN AND PELVIS\n\nWITH CONTRAST\n\nThe study was performedadministering oral and intravenous contrast, Sagittal and coronal reconstructed views were also obtained.\n\nA large mass lesion approximately measured 77*57mm at the site of lt adren\n\nal gland is seen could be due to metastasis or malignant primary lesion(pheochromo cystoma,sarcoma)\n\nLt pleural effusion and mild pericardiac effusio also are seen\n\nLiver is normal in size, shape and density with no space occupying lesion or biliary dilatation.\n\nSpleen and pancreas are also normal with no S.O.L\n\nThe kidneys are opacified with no hydronephrosis.\n\nA simple cyst (20mm)in lt kidney is seen\n\nNo paraaortic or paracaval adenopathy is present.\n\nPelvic organs are normal.\n\nDX:Lt adrenal mass'), Document(id='d558bb36-aaa2-4adb-a0ed-c02c7240599a', metadata={'source': 'data_reports\\10058.txt'}, page_content='MULTI\n\nSLICECT SCAN OF THE ABDOMEN AND PELVIS\n\nWITH CONTRAST\n\nThe study was performedadministering oral and intravenous contrast, Sagittal and coronal reconstructed views were also obtained.\n\nA soft tissue mass approximately measured 108*56mm with peripheral fat strandying in favoure of peritoneal and mesantric seeding of tumor in the left sided of abdomen is seen.\n\nA focal ass\n\nymetric mass like wall thickening of part of jejunalloop in central of abdomen at the level L4 vertebral body approximately measured 39*15mm also is noted most likely due to residual tumor.\n\nLiver is normal in size, shape and density with no space occupying lesion or biliary dilatation.\n\nSpleen and pancreas are also normal with no S.O.L\n\nThe kidneys are opacified with no hydronephrosis.\n\nNo paraaortic or paracaval adenopathy is present.\n\nPelvic organs are normal.\n\nDX:)Recurrance/residual tumor\n\n)Local mesa\n\nnteric and peritoneal seeding in Lt sided of abdomen'), Document(id='b6cda4f9-dd10-4b9c-a822-92cbfb0f1202', metadata={'source': 'data_reports\\10620.txt'}, page_content='MU\n\nLTISLICECT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.\n\nRt pleural effusion with partial collapse with considation (band like)of RLL are seen\n\nA subpleural nodule with diameter of 14mm in midzone of lt hemithorax is noted\n\nOtherwise of the study are unremarkable\n\nDX:)RLL partial collapse and bank like opacities)Rt pleural effusion\n\n3)SPN in lt lunge'), Document(id='a2eae3df-a8f0-4cb3-aed4-e00814d928a7', metadata={'source': 'data_reports\\10595.txt'}, page_content='MU\n\nLTISLICECT SCAN OF THE ABDOMEN AND PELVIS\n\nWITH CONTRAST\n\nThe study was performedadministering oral and intravenous contrast, Sagittal and coronal reconstructed views were also obtained.\n\nA soft tissue mass like lesion about 30*40mm at lt side (anteromedial lt kidney)of abdomen justifable with residue/recurrance tumor are seen\n\nSpan of spleen is 77mm(high normal)\n\nLiver is normal in size, shape and density with no space occupying lesion or biliary dilatation.\n\nThe kidneys are opacified with no hydronephrosis.\n\nNo paraaortic or paracaval adenopathy is present.\n\nPelvic organs are normal.\n\nDX:)R/O residual/recurrance tumor(anterior to lt kidney))Correlation with MIBG scinitigraphy and sonographic findinges is\n\nrecommended.')]
+یافته‌ها:
+نتیجه‌گیری:
+```persian
+**گزارش تصویربرداری با رنگ مخالف (CT Scan)**
+**تاریخ:** [Insert Date Here]
+**شناسه پرونده:** [Insert Patient ID Here]
+**مقدمه:**
+این گزارش بر اساس تصاویر حاصل از اسکن تومور (CT Scan) شکم و لگن با استفاده از ماده کنتراست انجام شده است.  اطلاعات موجود در این گزارش شامل یافته‌های اصلی، تغییرات در مقایسه با اسکن‌های قبلی و همچنین نتایج سایر مطالعات تصویربرداری (مانند اسکن تپه‌زنجانه‌ای) می‌باشد.
+**یافته‌ها:**
+*   **تغییرات در مجمعات پس وزنی (Retroperitoneal Masses):** مجمعات پس وزنی که در اسکن‌های قبل ذکر شده‌اند (18*36 میلی‌متر فوق کلیه چپ، 31*16 میلی‌متر زیر کلیه چپ و 112*71*76 میلی‌متر در کنار کلیه راست) همچنان مشاهده می‌شوند.  با این حال، حجم آنها به تدریج کاهش یافته است.
+*   **ماده‌ی کنتراست کننده (Contrast Enhancement):**  مقداری از کاهشی در حجم مجمعات مشاهده می‌شود.
+*   **کليه (Kidneys):** هر دو کلیه با ماده کنتراست شده هستند. هیچ نشانه‌ای از آب‌کنه (hydronephrosis) وجود ندارد.
+*   **آدرنالین (Adrenal Gland):**  یک توده بزرگ (77*57 میلی‌متر) در ناحیه غده آدرنال سمت چپ دیده می‌شود.  این توده می‌تواند ناشی از متاستاز یا یک اولیه بدخیم (مانند فیوچرم سیتوما یا سرکوم) باشد.
+*   **پاراکلونار و پاراکاویال (Para-aortic and Paracaval Lymph Nodes):** هیچ نشانه‌ای از بزرگی غدد لنفاوی در نواحی پاراکلونار و پاراکاویال مشاهده نمی‌شود.
+*   **سازهای داخلی (Visceral Organs):** کبد، طحال و پانکراس بدون یافته‌ی غیرطبیعی هستند. هیچ لژیون فضایی (space-occupying lesion) یا التهاب بؤبری (biliary dilatation) مشاهده نمی‌شود.
+------------------------------------------------------------------------------------
+
+RAG EVALUATION RESULTS
+======================================================================
+English Jaccard Similarity (NoRAG vs RAG): 0.06
+Persian Jaccard Similarity (NoRAG vs RAG): 0.05
+Medical Terms in English NoRAG: 12
+Medical Terms in English RAG: 9
+Medical Terms in Persian NoRAG: 1
+Medical Terms in Persian RAG: 11
+======================================================================

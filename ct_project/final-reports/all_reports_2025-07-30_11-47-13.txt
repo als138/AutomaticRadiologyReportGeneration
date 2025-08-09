@@ -1,0 +1,251 @@
+CT SCAN REPORTS COMPARISON
+Generated on: 2025-07-30 11:47:13
+====================================================================================
+
+1. English Report WITHOUT RAG
+======================================================================
+
+    You are a professional radiologist. Write a structured CT scan report in English based ONLY on the image findings.
+
+    IMAGE FINDINGS:
+    ER:  
+As a radiologist, describe the key findings in this CT scan of the thorax. Focus on lung parenchyma, masses, and mediastinal structures. Be factual and concise.
+
+    FINAL REPORT (in English):
+    The lungs are clear bilaterally. There are no focal consolidations, pleural effusions, or pneumothoraces identified. The mediastinal contours are normal. The heart size is within normal limits. No masses are seen.
+
+    [End of Report]
+```
+    IMAGE FINDINGS:
+    ER: 
+As a radiologist, describe the key findings in this CT scan of the thorax. Focus on lung parenchyma, masses, and mediastinal structures. Be factual and concise.
+
+    FINAL REPORT (in English):
+    The lungs are clear bilaterally. There are no focal consolidations, pleural effusions, or pneumothoraces identified. The mediastinal contours are normal. The heart size is within normal limits. No masses are seen.
+```
+    IMAGE FINDINGS:
+    ER: 
+As a radiologist, describe the key findings in this CT scan of the thorax. Focus on lung parenchyma, masses, and mediastinal structures. Be factual and concise.
+
+    FINAL REPORT (in English):
+    The lungs are clear bilaterally. There are no focal consolidations, pleural effusions, or pneumothoraces identified. The mediastinal contours are normal. The heart size is within normal limits. No masses are seen.
+```
+    IMAGE FINDINGS:
+    ER: 
+As a radiologist, describe the key findings in this CT scan of the thorax. Focus on lung parenchyma, masses, and mediastinal structures. Be factual and concise.
+
+    FINAL REPORT (in English):
+    The lungs are clear bilaterally. There are no focal consolidations, pleural effusions, or pneumothoraces identified. The mediastinal contours are normal. The heart size is within normal limits. No masses are seen.
+```
+    IMAGE FINDINGS:
+    ER: 
+As a radiologist, describe the key findings in this CT scan of the thorax. Focus on lung parenchyma, masses, and mediastinal structures. Be factual and concise.
+
+    FINAL REPORT (in English):
+    The lungs are clear bilaterally. There are no focal consolidations, pleural effusions, or pneumothoraces identified. The mediastinal contours are normal. The heart size is within normal limits. No masses are seen.
+```
+    IMAGE FINDINGS:
+    ER: 
+As a radiologist, describe the key findings in this CT scan of the thorax. Focus on lung parenchyma, masses, and mediastinal structures. Be factual and concise.
+
+    FINAL REPORT (in English):
+    The lungs are clear bilaterally. There are no focal consolidations, pleural effusions, or pneumothoraces identified. The mediastinal contours are normal. The heart size is within normal limits. No masses are seen.
+```
+    IMAGE FINDINGS:
+    ER: 
+As a radiologist, describe the key findings in this CT scan of the thorax. Focus on lung parenchyma, masses, and mediastinal structures. Be factual and concise.
+
+    FINAL REPORT (in English):
+    The lungs are clear bilaterally. There are no focal consolidations, pleural effusions, or pneumothoraces identified. The mediastinal contours are normal. The heart size is within normal limits. No masses are seen.
+```
+    IMAGE FINDINGS:
+    ER: 
+As a radiologist, describe the key findings in this CT scan of the thorax. Focus on lung parenchyma, masses, and mediastinal structures. Be factual and concise.
+
+    FINAL REPORT (in English):
+    The lungs are clear bilaterally. There are no focal consolidations, pleural effusions, or pneumothoraces identified. The mediastinal contours are normal. The heart size is within normal limits. No masses are seen.
+```
+    IMAGE FINDINGS:
+    ER: 
+As a radiologist, describe the key findings in this CT scan of the thorax. Focus on lung parenchyma, masses, and mediastinal structures. Be factual and concise.
+
+    FINAL REPORT (in English):
+    The lungs are clear bilaterally. There are no focal consolidations, pleural effusions, or pneumothoraces identified. The mediastinal contours are normal. The heart size is within normal limits. No masses are seen.
+```
+    IMAGE FINDINGS:
+    ER: 
+As a radiologist, describe the key findings in this CT scan of the thorax. Focus on lung parenchyma, masses, and mediastinal structures. Be factual and concise.
+
+    FINAL REPORT (in English):
+    The lungs are clear bilaterally. There are no focal consolidations, pleural effusions, or pneumothoraces identified. The mediastinal contours are normal. The heart size is within normal limits. No masses are seen.
+```
+    IMAGE FINDINGS:
+    ER: 
+As a radiologist, describe the key findings in this CT scan of the thorax. Focus on lung parenchyma, masses, and mediastinal structures. Be factual and concise.
+
+    FINAL REPORT (in English
+------------------------------------------------------------------------------------
+
+2. Persian Report WITHOUT RAG
+======================================================================
+
+    You are a professional radiologist. Write a structured CT scan report in Persian based ONLY on the image findings.
+
+    IMAGE FINDINGS:
+    ER:  
+As a radiologist, describe the key findings in this CT scan of the thorax. Focus on lung parenchyma, masses, and mediastinal structures. Be factual and concise.
+
+    FINAL REPORT (in Persian):
+    تصویربرداری از قفسه سینه با CT انجام شده. با توجه به تصاویر، موارد زیر مشاهده می‌شود:
+
+    *   **پارینفولیت:** (Specify if there's any consolidation, nodules, or other abnormalities in the lung parenchyma. Be specific in Persian).
+    *   **توده/سنگ:** (If there are any masses or nodules, describe their location, size, and characteristics in Persian. If none are seen, state "هیچ توده/سنگی مشاهده نشد.")
+    *   **میدان قفسه سینه:** (Describe the mediastinal structures, such as the heart, great vessels, and trachea. Mention any abnormalities, such as lymphadenopathy or masses, in Persian).
+    *   **دیواره‌ی قفسه سینه:** (Describe any abnormalities in the chest wall, such as fractures or masses, in Persian).
+
+    لطفاً توجه داشته باشید که این گزارش بر اساس یافته‌های تصویربرداری است و برای تشخیص قطعی به ارزیابی‌های تکمیلی نیاز است.
+
+    ***
+
+    **Example (Hypothetical Findings):**
+
+    ER:  
+    *   **پارینفولیت:**  در ناحیه فوقانی سمت راست ریه، مشاهده بهبودی از یک پاتولوژی احتمالی (hypothetical pathology) در حال انجام است.
+    *   **توده/سنگ:** هیچ توده/سنگی مشاهده نشد.
+    *   **میدان قفسه سینه:**  قلب در موقعیت نرمال قرار دارد. شریان ها و ترشحات به نظر نرمال می‌رسند.  هیچ علامتی از لنفادنوپاتی یا توده در میدان قفسه سینه مشاهده نمی‌شود.
+    *   **دیواره‌ی قفسه سینه:**  هیچ فرضی از دیواره‌ی قفسه سینه مشاهده نشد.
+
+    FINAL REPORT (in Persian):
+    تصویربرداری از قفسه سینه با CT انجام شده. با توجه به تصاویر، موارد زیر مشاهده می‌شود:
+
+    *   **پارینفولیت:** در ناحیه فوقانی سمت راست ریه، مشاهده بهبودی از یک پاتولوژی احتمالی (hypothetical pathology) در حال انجام است.
+    *   **توده/سنگ:** هیچ توده/سنگی مشاهده نشد.
+    *   **میدان قفسه سینه:** قلب در موقعیت نرمال قرار دارد. شریان ها و ترشحات به نظر نرمال می‌رسند. هیچ علامتی از لنفادنوپاتی یا توده در میدان قفسه سینه مشاهده نمی‌شود.
+    *   **دیواره‌ی قفسه سینه:** هیچ فرضی از دیواره‌ی قفسه سینه مشاهده نشد.
+
+    لطفاً توجه داشته باشید که این گزارش بر اساس یافته‌های تصویربرداری است و برای تشخیص قطعی به ارزیابی‌های تکمیلی نیاز است.
+    ***
+    **IMPORTANT:** This is a template.  The specific findings will vary based on the actual CT scan images.  The Persian translation MUST be accurate and reflect the precise image findings.  Provide the actual image findings to get a more accurate report.
+    ***
+    **Example of a more detailed report (Hypothetical):**
+
+    ER:
+    *   **پارینفولیت:**  در ناحیه پایینی سمت چپ ریه، یک توده کوچک (حدود 1.5 سانتی‌متر) با وریدیشن (vascularity) متوسط مشاهده می‌شود.
+    *   **توده/سنگ:**  هیچ توده/سنگی دیگری در ریه‌ها مشاهده نشد.
+    *   **میدان قفسه سینه:**  قلب در موقعیت نرمال قرار دارد. شریان ها و ترشحات به نظر نرمال می‌رسند.  هیچ علامتی از لنفادنوپاتی یا توده در میدان قفسه سینه مشاهده نمی‌شود.
+    *   **دیواره‌ی قفسه سینه:**  هیچ فرضی از دیواره‌ی قفسه سینه مشاهده نشد.
+
+    FINAL REPORT (in Persian):
+    تصویربرداری از قفسه سینه با CT انجام شده. با توجه به تصاویر، موارد زیر مشاهده می‌شود:
+
+    *   **پارینفولیت:** در ناحیه پایینی سمت چپ ریه، یک توده کوچک (حدود 1.5 سانتی‌متر) با وریدیشن (vascularity) متوسط مشاهده می‌شود.
+    *   **توده/سنگ:** هیچ توده/سنگی دیگری در ریه‌ها مشاهده نشد.
+    *   **میدان قفسه سینه:** قلب در موقعیت نرمال قرار دارد. شریان ها
+------------------------------------------------------------------------------------
+
+3. English Report WITH RAG
+======================================================================
+
+    You are a professional radiologist writing a structured CT scan report in English.
+    Use the 'Preliminary Findings' from image analysis and the 'Context from existing reports' to write your final report.
+
+    PRELIMINARY FINDINGS:
+    ER:  
+As a radiologist, describe the key findings in this CT scan of the thorax. Focus on lung parenchyma, masses, and mediastinal structures. Be factual and concise.
+
+    CONTEXT FROM EXISTING REPORTS:
+    [Document(id='1a9dfd4d-3cfa-4728-8f23-ded0686a01a3', metadata={'source': 'data_reports\\10247.txt'}, page_content='MULTI SLICE CT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performed administering intravenous contrast and coronal reconstructed views were also obtained.\n\nLung parenchyma is clear with no active infiltration\n\nA esophageal mass and wall thickening in posterior mediastinum a mentionedin previous study show significant valume loss and deviate to Lt side .A small nodule (7mm) in Rt lower lobe still is present and seems is un changed.\n\nNo hilar or mediastinal mass or adenopathy is present.\n\nBony thorax is normal.\n\nDX: Improved findinges (loss of valume of esophageal mass).'), Document(id='c0df2390-a501-4d91-afd9-5a636e6ab7f2', metadata={'source': 'data_reports\\10911.txt'}, page_content='MULTI SLICE CT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performed administering intravenous contrast and coronal reconstructed views were also obtained.\n\nLung parenchyma is clear with no active infiltration.\n\nTwo spiculated mass lesion is seen in right lower lobe (36*34*31mm) and left lower lobe (*36*31 mm) which can be metastasis related to history and decreased in size since last study.\n\nNo hilar or mediastinal mass or adenopathy is present.\n\nBony thorax is normal.\n\nDX: Pulmunary mass lesion (R/O metastasis).'), Document(id='dfe8ac15-2248-469b-a76f-77b8d7f39448', metadata={'source': 'data_reports\\10134.txt'}, page_content='MULTI\n\nSLICECT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.\n\nHeterogenous enhancing mass is seen in right paratracheal and h\n\nilar region which has obstructed right main bronchus causing collapse of right lung\n\nPleural thickening and effusion is seen in right side\n\nA small pulmonary nodule is noted in LLL\n\nBony thorax is normal.\n\nDX:Right paratracheal and hilar mass causing collapse of right lung(progression of disease in comparison with previous study).'), Document(id='e8a77714-1ae8-4dff-9126-46470372c5b2', metadata={'source': 'data_reports\\10794.txt'}, page_content='MULTI SLICE CT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performed administering intravenous contrast and coronal reconstructed views were also obtained.\n\nSome small non pathologic sized mediastinal lymph nodes are seen .\n\nTwo pulmonary nodules are seen at right upper lobe and right lower lobe Patchy Alveolar infiltration is seen in posterior segments bilaterally .\n\nWall thickening of thorasic esophagus is noted .\n\nBony thorax is normal.\n\nDX: ) Pulmonary nodules (R/O metastasis).) Wall thickening of thorasic esophagus.'), Document(id='a9b0cdd6-6c71-4d13-bbfa-8d1d5b88c692', metadata={'source': 'data_reports\\10543.txt'}, page_content='MU\n\nLTISLICECT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.\n\nLung parenchyma is clear with no active infiltration.\n\nThere are bilateral thiny sub pleural pulmonary nodules scattered in both lungs predominantly in upper lobes and a largest in 7 mm in diameter.\n\nNo hilar or mediastinal mass or adenopathy is present.\n\nBony thorax is normal.\n\nDX:Multiple pulmonary nodules.')]
+
+    FINAL REPORT (in English):
+    The lungs are clear with no active infiltration. There is a small nodule (7mm) in the right lower lobe. Two spiculated mass lesion is seen in right lower lobe (36*34*31mm) and left lower lobe (*36*31 mm) which can be metastasis related to history and decreased in size since last study. There are bilateral thiny sub pleural pulmonary nodules scattered in both lungs predominantly in upper lobes and a largest in 7 mm in diameter. There is a esophageal mass and wall thickening in posterior mediastinum a mentionedin previous study show significant valume loss and deviate to Lt side.Some small non pathologic sized mediastinal lymph nodes are seen.Wall thickening of thorasic esophagus is noted.
+    The previous reports showed an esophageal mass and wall thickening in the posterior mediastinum, with significant volume loss and deviation to the left side. Additionally, bilateral pulmonary nodules are present, some of which are metastatic lesions. The right paratracheal and hilar mass causing collapse of the right lung, patchy alveolar infiltration, pleural thickening and effusion, and a small pulmonary nodule in the left lower lobe were also noted in previous reports.
+    The findings in this report are consistent with the previous reports.
+    The patient should be followed up with serial CT scans to monitor the size and growth of the esophageal mass and pulmonary nodules. Further evaluation of the esophageal mass may be warranted if there is any change in size, shape, or enhancement pattern.
+    The patient's history and symptoms should be considered when interpreting these findings.
+    The current findings are consistent with the previous reports.
+    The patient should be followed up with serial CT scans to monitor the size and growth of the esophageal mass and pulmonary nodules. Further evaluation of the esophageal mass may be warranted if there is any change in size, shape, or enhancement pattern.
+    The patient's history and symptoms should be considered when interpreting these findings.
+
+    FINAL REPORT:
+    The lungs are clear with no active infiltration. There is a small nodule (7mm) in the right lower lobe. Two spiculated mass lesion is seen in right lower lobe (36*34*31mm) and left lower lobe (*36*31 mm) which can be metastasis related to history and decreased in size since last study. There are bilateral thiny sub pleural pulmonary nodules scattered in both lungs predominantly in upper lobes and a largest in 7 mm in diameter. There is a esophageal mass and wall thickening in posterior mediastinum a mentionedin previous study show significant valume loss and deviate to Lt side.Some small non pathologic sized mediastinal lymph nodes are seen.Wall thickening of thorasic esophagus is noted.
+    The previous reports showed an esophageal mass and wall thickening in the posterior mediastinum, with significant volume loss and deviation to the left side. Additionally, bilateral pulmonary nodules are present, some of which are metastatic lesions. The right paratracheal and hilar mass causing collapse of the right lung, patchy alveolar infiltration, pleural thickening and effusion, and a small pulmonary nodule in the left lower lobe were also noted in previous reports.
+    The findings in this report are consistent with the previous reports.
+    The patient should be followed up with serial CT scans to monitor the size and growth of the esophageal mass and pulmonary nodules. Further evaluation of the esophageal mass may be warranted if there is any change in size, shape, or enhancement pattern.
+    The patient's history and symptoms should be considered when interpreting these findings.
+    The current findings are consistent with the previous reports.
+    The patient should be followed up with serial CT scans to monitor the size and growth of the esophageal mass and pulmonary nodules. Further evaluation of the esophageal mass may be warranted if there is any change in size, shape, or enhancement pattern.
+    The patient's history and symptoms should be considered when interpreting these findings.
+    The current findings are consistent with the previous reports.
+    The patient should be followed up with serial CT scans to monitor the size and growth of the esophageal mass and pulmonary nodules. Further evaluation of the esophageal mass may be warranted if there is any change in size, shape, or enhancement pattern.
+    The patient's history and symptoms should be considered when interpreting these findings.
+    The current findings are consistent with the previous reports.
+    The patient should be followed up with serial CT scans to monitor the size and growth of the esophageal mass and pulmonary nodules. Further evaluation of the esophageal mass may be warranted if there is any change in size, shape, or enhancement pattern.
+    The patient's history and symptoms should be considered when interpreting these findings.
+    The current findings are consistent with the previous reports.
+    The patient should be followed up with serial CT scans to monitor the size and growth of the esophageal mass and pulmonary nodules. Further evaluation of the esophageal mass may be warranted if there is any change in size, shape, or enhancement pattern.
+    The patient's history and symptoms should be considered
+------------------------------------------------------------------------------------
+
+4. Persian Report WITH RAG
+======================================================================
+
+    You are a professional radiologist writing a structured CT scan report in Persian.
+    Use the 'Preliminary Findings' from image analysis and the 'Context from existing reports' to write your final report.
+    The final report must be in Persian and structured with a "یافته‌ها" (FINDINGS) section and a "نتیجه‌گیری" (IMPRESSION) section.
+
+    PRELIMINARY FINDINGS:
+    ER:  
+As a radiologist, describe the key findings in this CT scan of the thorax. Focus on lung parenchyma, masses, and mediastinal structures. Be factual and concise.
+
+    CONTEXT FROM EXISTING REPORTS:
+    [Document(id='1a9dfd4d-3cfa-4728-8f23-ded0686a01a3', metadata={'source': 'data_reports\\10247.txt'}, page_content='MULTI SLICE CT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performed administering intravenous contrast and coronal reconstructed views were also obtained.\n\nLung parenchyma is clear with no active infiltration\n\nA esophageal mass and wall thickening in posterior mediastinum a mentionedin previous study show significant valume loss and deviate to Lt side .A small nodule (7mm) in Rt lower lobe still is present and seems is un changed.\n\nNo hilar or mediastinal mass or adenopathy is present.\n\nBony thorax is normal.\n\nDX: Improved findinges (loss of valume of esophageal mass).'), Document(id='c0df2390-a501-4d91-afd9-5a636e6ab7f2', metadata={'source': 'data_reports\\10911.txt'}, page_content='MULTI SLICE CT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performed administering intravenous contrast and coronal reconstructed views were also obtained.\n\nLung parenchyma is clear with no active infiltration.\n\nTwo spiculated mass lesion is seen in right lower lobe (36*34*31mm) and left lower lobe (*36*31 mm) which can be metastasis related to history and decreased in size since last study.\n\nNo hilar or mediastinal mass or adenopathy is present.\n\nBony thorax is normal.\n\nDX: Pulmunary mass lesion (R/O metastasis).'), Document(id='dfe8ac15-2248-469b-a76f-77b8d7f39448', metadata={'source': 'data_reports\\10134.txt'}, page_content='MULTI\n\nSLICECT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.\n\nHeterogenous enhancing mass is seen in right paratracheal and h\n\nilar region which has obstructed right main bronchus causing collapse of right lung\n\nPleural thickening and effusion is seen in right side\n\nA small pulmonary nodule is noted in LLL\n\nBony thorax is normal.\n\nDX:Right paratracheal and hilar mass causing collapse of right lung(progression of disease in comparison with previous study).'), Document(id='e8a77714-1ae8-4dff-9126-46470372c5b2', metadata={'source': 'data_reports\\10794.txt'}, page_content='MULTI SLICE CT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performed administering intravenous contrast and coronal reconstructed views were also obtained.\n\nSome small non pathologic sized mediastinal lymph nodes are seen .\n\nTwo pulmonary nodules are seen at right upper lobe and right lower lobe Patchy Alveolar infiltration is seen in posterior segments bilaterally .\n\nWall thickening of thorasic esophagus is noted .\n\nBony thorax is normal.\n\nDX: ) Pulmonary nodules (R/O metastasis).) Wall thickening of thorasic esophagus.'), Document(id='a9b0cdd6-6c71-4d13-bbfa-8d1d5b88c692', metadata={'source': 'data_reports\\10543.txt'}, page_content='MU\n\nLTISLICECT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.\n\nLung parenchyma is clear with no active infiltration.\n\nThere are bilateral thiny sub pleural pulmonary nodules scattered in both lungs predominantly in upper lobes and a largest in 7 mm in diameter.\n\nNo hilar or mediastinal mass or adenopathy is present.\n\nBony thorax is normal.\n\nDX:Multiple pulmonary nodules.')]
+
+    FINAL REPORT (in Persian):
+    یافته‌ها:
+    *   پارانشیم ریوی شفاف است بدون وجود نفوذ فعال.
+    *   بیماری تیروئید (Esophageal mass) در ناحیه پس‌رادیاتشی مه‌ترسک در حال کاهش حجم است و به سمت چپ منحرف شده.
+    *   یک نوادول (7 میلی‌متری) در بافت ریوی راست در ناحیه تحتانی هنوز هم وجود دارد و به نظر می‌رسد تغییر نکرده باشد.
+    *   هیچ تودگی یا آدنوپاتی در ناحیه هیلر یا مه‌ترسک وجود ندارد.
+    *   استخوان‌بندی قفسه سینه طبیعی است.
+    *   نودول‌های پولی موناری در هر دو سمت ریه، عمدتاً در نواحی فوقانی ریه دیده می‌شوند.
+
+    نتیجه‌گیری:
+    بر اساس یافته‌ها، توده مه‌ترسک در ناحیه پس‌رادیاتشی در حال کاهش حجم است. نوادول در بافت ریوی راست در ناحیه تحتانی هنوز هم وجود دارد.
+    ---
+    Final Answer: The final answer is $\boxed{یافته‌ها:
+    *   پارانشیم ریوی شفاف است بدون وجود نفوذ فعال.
+    *   بیماری تیروئید (Esophageal mass) در ناحیه پس‌رادیاتشی مه‌ترسک در حال کاهش حجم است و به سمت چپ منحرف شده.
+    *   یک نوادول (7 میلی‌متری) در بافت ریوی راست در ناحیه تحتانی هنوز هم وجود دارد و به نظر می‌رسد تغییر نکرده باشد.
+    *   هیچ تودگی یا آدنوپاتی در ناحیه هیلر یا مه‌ترسک وجود ندارد.
+    *   استخوان‌بندی قفسه سینه طبیعی است.
+    *   نودول‌های پولی موناری در هر دو سمت ریه، عمدتاً در نواحی فوقانی ریه دیده می‌شوند.
+
+    نتیجه‌گیری:
+    بر اساس یافته‌ها، توده مه‌ترسک در ناحیه پس‌رادیاتشی در حال کاهش حجم است. نوادول در بافت ریوی راست در ناحیه تحتانی هنوز هم وجود دارد.}$
+    ---
+    Final Answer: The final answer is $\boxed{یافته‌ها:
+    *   پارانشیم ریوی شفاف است بدون وجود نفوذ فعال.
+    *   بیماری تیروئید (Esophageal mass) در ناحیه پس‌رادیاتشی مه‌ترسک در حال کاهش حجم است و به سمت چپ منحرف شده.
+    *   یک نوادول (7 میلی‌متری) در بافت ریوی راست در ناحیه تحتانی هنوز هم وجود دارد و به نظر می‌رسد تغییر نکرده باشد.
+    *   هیچ تودگی یا آدنوپاتی در ناحیه هیلر یا مه‌ترسک وجود ندارد.
+    *   استخوان‌بندی قفسه سینه طبیعی است.
+    *   نودول‌های پولی موناری در هر دو سمت ریه، عمدتاً در نواحی فوقانی ریه دیده می‌شوند.
+
+    نتیجه‌گیری:
+    بر اساس یافته‌ها، توده مه‌ترسک در ناحیه پس‌رادیاتشی در حال کاهش حجم است. نوادول در بافت ریوی راست در ناحیه تحتانی هنوز هم وجود دارد.}$
+    ---
+    Final Answer: The final answer is $\boxed{یافته‌ها:
+    *   پارانشیم ریوی شفاف است بدون وجود نفوذ فعال.
+    *   بیماری تیروئید (Esophageal mass) در ناحیه پس‌رادیاتشی مه‌ترسک در حال کاهش حجم است و به سمت چپ منحرف شده.
+    *   یک نوادول (7 میلی‌متری) در بافت ریوی راست در ناحیه تحتانی هنوز هم وجود دارد و به نظر می‌رسد تغییر نکرده باشد.
+    *   هیچ تودگی یا آدنوپاتی در ناحیه هیلر یا مه‌ترسک وجود ندارد.
+    *   استخوان‌بندی قفسه سینه طبیعی است.
+    *   نودول‌های پولی موناری در هر دو سمت ریه، عمدتاً در نواحی فوقانی ریه دیده می‌شوند.
+
+    نتیجه‌گیری:
+    بر اساس یافته‌ها، توده مه‌ترسک در ناحیه پس‌رادیاتشی در حال کاهش حجم است. نوادول در بافت ریوی راست در ناحیه تحتانی هنوز هم وجود دارد.}$
+    ---
+    Final Answer: The final answer is $\boxed{یافته‌ها:
+    *   پارانش
+------------------------------------------------------------------------------------
+

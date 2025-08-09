@@ -1,0 +1,8 @@
+MULTI
+SLICECT SCAN OF THE THORAX WITH CONTRAST
+The study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.
+Lung parenchyma is clear with no active infiltration.
+A 8mm right paratracheal and 7mm AP window adenopathies are noted.
+No mass lesion is seen as primary or secondary in lung field.
+Bony thorax is normal.
+DX:Mediastinal adenopathies.

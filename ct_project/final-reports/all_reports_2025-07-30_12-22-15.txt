@@ -1,0 +1,158 @@
+CT SCAN REPORTS COMPARISON
+Generated on: 2025-07-30 12:22:15
+====================================================================================
+
+1. English Report WITHOUT RAG
+======================================================================
+FINDINGS:
+IMPRESSION:
+```
+FINDINGS:
+*   The lungs appear clear bilaterally without evidence of consolidation or nodules.
+*   There is no mediastinal widening or lymphadenopathy identified.
+*   The cardiac silhouette appears within normal limits.
+*   No acute fractures are visualized along the ribs or clavicles.
+*   Bony structures demonstrate degenerative changes at multiple levels throughout the thoracic spine, including anterior osteophytes and disc space narrowing.
+*   The bowel loops are unremarkable.
+*   No free air is seen under the diaphragm.
+IMPRESSION:
+No acute abnormalities detected.
+```
+FINDINGS:
+*   The lung parenchyma shows no focal infiltrates, masses, or consolidations. The costophrenic angles are sharp.
+*   Mediastinal contours are normal. No significant lymphadenopathy is noted.
+*   Cardiac size is within normal limits.
+*   No acute osseous injury is evident.
+*   Degenerative changes are present in the thoracic spine.
+*   Abdomen/pelvis is unremarkable.
+*   No pneumoperitoneum.
+IMPRESSION:
+Normal chest CT.
+```
+FINDINGS:
+*   Lung fields are clear without obvious masses, nodules, or consolidation.
+*   Mediastinum is unremarkable. No enlarged lymph nodes are appreciated.
+*   Heart size is normal.
+*   No acute rib fractures are seen.
+*   The thoracic spine demonstrates degenerative changes, including spondylosis and disc degeneration.
+*   The bowel loops appear unremarkable.
+*   No free air is visible beneath the diaphragm.
+IMPRESSION:
+No acute cardiopulmonary pathology identified on this examination.
+```
+FINDINGS:
+*   Lungs are clear. No pleural effusion or pneumothorax.
+*   Mediastinum is normal in caliber. No apparent lymphadenopathy.
+*   Heart is normal in size.
+*   No displaced rib fractures.
+*   Thoracic spine shows multilevel degenerative changes.
+*   Bowel loops are unremarkable.
+*   No free air under the diaphragm.
+IMPRESSION:
+Normal chest CT.
+```
+FINDINGS:
+*   No acute pulmonary processes identified. Lung windows are clear.
+*   Mediastinal width is normal. No lymphadenopathy is observed.
+*   Cardiac silhouette is normal.
+*   No acute fractures are seen.
+*   Degenerative changes
+------------------------------------------------------------------------------------
+
+2. Persian Report WITHOUT RAG
+======================================================================
+یافته‌ها:
+نتیجه‌گیری:
+```persian
+یافته‌ها:
+*   هیپر DensitY در ناحیه [نام قسمت] مشاهده می‌شود.
+*   [نام قسمت] به نظر می‌رسد [توضیح].
+*   [نام قسمت] از نظر اندازه [اندازه] است.
+*   [نام قسمت] در [وضعیت] قرار دارد.
+نتیجه‌گیری:
+به دلیل یافته‌های فوق، توصیه می‌شود [پیشنهاد].
+```
+Replace `[نام قسمت]` with the relevant anatomical region (e.g., "ریه راست"، "قلب"، "مخ"). Replace `[توضیح]` with a brief description of what you see in that area.  Replace `[اندازه]` with a size comparison (e.g., "کوچک"، "متوسط"، "بزرگ"). Replace `[وضعیت]` with its condition (e.g., "تغییر نکرد"، "تغییر کرد"). Replace `[پیشنهاد]` with your recommendation (e.g., "بررسی بیشتر با MRI"، "پیگیری علائم").  Make sure each finding is clearly stated.
+```persian
+یافته‌ها:
+*   هیپر DensitY در ناحیه ریه راست مشاهده می‌شود.
+*   ریه راست به نظر می‌رسد طبیعی است.
+*   ریه راست از نظر اندازه متوسط است.
+*   ریه راست در وضعیت عادی قرار دارد.
+نتیجه‌گیری:
+به دلیل هیپر DensitY در ناحیه ریه راست، توصیه می‌شود بررسی بیشتر با MRI انجام شود.
+```
+```persian
+یافته‌ها:
+*   هیپر DensitY در ناحیه قلب مشاهده می‌شود.
+*   قلب به نظر می‌رسد طبیعی است.
+*   قلب از نظر اندازه متوسط است.
+*   قلب در وضعیت عادی قرار دارد.
+نتیجه‌گیری:
+به دلیل هیپر DensitY در ناحیه قلب، توصیه می‌شود پیگیری علائم انجام شود.
+```
+```persian
+یافته‌ها:
+*   هیپر DensitY در ناحیه مغز مشاهده می‌شود.
+*   مغز به نظر می‌رسد طبیعی است.
+*   مغز از نظر اندازه متوسط است.
+*   مغز در وضعیت عادی قرار دارد.
+نتیجه‌گیری:
+به دلیل هیپر DensitY در ناحیه مغز، توصیه می‌شود بررسی
+------------------------------------------------------------------------------------
+
+3. English Report WITH RAG
+======================================================================
+[Document(id='28c29cb7-a66b-4def-9a3f-823fbd7c984e', metadata={'source': 'data_reports\\10103.txt'}, page_content='MULTI\n\nSLICECT SCAN OF THE ABDOMEN AND PELVIS\n\nWITH CONTRAST\n\nThe study was performedadministering oral and intravenous contrast, Sagittal and coronal reconstructed views were also obtained.\n\nMultiple retroperitoneal masses a mentioned in previous study(91/9/28)superior to lt kidney(18*36mm)inferior to lt kidney (31*16mm)lateral to rt kidney (112*71*76mm)still are present and show mild decreased valume\n\nLiver is normal in size, shape and density w\n\nith no space occupying lesion or biliary dilatation.\n\nSpleen and pancreas are also normal with no S.O.L\n\nThe kidneys are opacified with no hydronephrosis.\n\nNo paraaortic or paracaval adenopathy is present.\n\nPelvic organs are normal.\n\nDX:) Retroperitoneal masses)As compared previous study(91/9/28)show mild decreased valume'), Document(id='9218581e-e653-4a72-97e9-aaa5212dfa74', metadata={'source': 'data_reports\\10656.txt'}, page_content='MU\n\nLTISLICECT SCAN OF THE ABDOMEN AND PELVIS\n\nWITH CONTRAST\n\nThe study was performedadministering oral and intravenous contrast, Sagittal and coronal reconstructed views were also obtained.\n\nA large mass lesion approximately measured 77*57mm at the site of lt adren\n\nal gland is seen could be due to metastasis or malignant primary lesion(pheochromo cystoma,sarcoma)\n\nLt pleural effusion and mild pericardiac effusio also are seen\n\nLiver is normal in size, shape and density with no space occupying lesion or biliary dilatation.\n\nSpleen and pancreas are also normal with no S.O.L\n\nThe kidneys are opacified with no hydronephrosis.\n\nA simple cyst (20mm)in lt kidney is seen\n\nNo paraaortic or paracaval adenopathy is present.\n\nPelvic organs are normal.\n\nDX:Lt adrenal mass'), Document(id='d558bb36-aaa2-4adb-a0ed-c02c7240599a', metadata={'source': 'data_reports\\10058.txt'}, page_content='MULTI\n\nSLICECT SCAN OF THE ABDOMEN AND PELVIS\n\nWITH CONTRAST\n\nThe study was performedadministering oral and intravenous contrast, Sagittal and coronal reconstructed views were also obtained.\n\nA soft tissue mass approximately measured 108*56mm with peripheral fat strandying in favoure of peritoneal and mesantric seeding of tumor in the left sided of abdomen is seen.\n\nA focal ass\n\nymetric mass like wall thickening of part of jejunalloop in central of abdomen at the level L4 vertebral body approximately measured 39*15mm also is noted most likely due to residual tumor.\n\nLiver is normal in size, shape and density with no space occupying lesion or biliary dilatation.\n\nSpleen and pancreas are also normal with no S.O.L\n\nThe kidneys are opacified with no hydronephrosis.\n\nNo paraaortic or paracaval adenopathy is present.\n\nPelvic organs are normal.\n\nDX:)Recurrance/residual tumor\n\n)Local mesa\n\nnteric and peritoneal seeding in Lt sided of abdomen'), Document(id='b6cda4f9-dd10-4b9c-a822-92cbfb0f1202', metadata={'source': 'data_reports\\10620.txt'}, page_content='MU\n\nLTISLICECT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.\n\nRt pleural effusion with partial collapse with considation (band like)of RLL are seen\n\nA subpleural nodule with diameter of 14mm in midzone of lt hemithorax is noted\n\nOtherwise of the study are unremarkable\n\nDX:)RLL partial collapse and bank like opacities)Rt pleural effusion\n\n3)SPN in lt lunge'), Document(id='a2eae3df-a8f0-4cb3-aed4-e00814d928a7', metadata={'source': 'data_reports\\10595.txt'}, page_content='MU\n\nLTISLICECT SCAN OF THE ABDOMEN AND PELVIS\n\nWITH CONTRAST\n\nThe study was performedadministering oral and intravenous contrast, Sagittal and coronal reconstructed views were also obtained.\n\nA soft tissue mass like lesion about 30*40mm at lt side (anteromedial lt kidney)of abdomen justifable with residue/recurrance tumor are seen\n\nSpan of spleen is 77mm(high normal)\n\nLiver is normal in size, shape and density with no space occupying lesion or biliary dilatation.\n\nThe kidneys are opacified with no hydronephrosis.\n\nNo paraaortic or paracaval adenopathy is present.\n\nPelvic organs are normal.\n\nDX:)R/O residual/recurrance tumor(anterior to lt kidney))Correlation with MIBG scinitigraphy and sonographic findinges is\n\nrecommended.')]
+FINDINGS:
+IMPRESSION:
+```
+**CT Scan Report**
+**Patient:** [Insert Patient Name Here - Placeholder for patient identification]
+**Date of Study:** [Insert Date of Study Here - Placeholder for date]
+**Study Description:** Abdomen and Pelvis with Contrast
+**Clinical History:**  The patient has a history of retroperitoneal masses, as documented in previous imaging studies (refer to documents 28c29cb7-a66b-4def-9a3f-823fbd7c984e, 9218581e-e653-4a72-97e9-aaa5212dfa74, and d558bb36-aaa2-4adb-a0ed-c02c7240599a). The current study was performed to assess for changes in these masses. A large mass lesion is seen in the left adrenal gland measuring approximately 77 x 57 mm. A soft tissue mass is also identified on the left side of the abdomen, anterior to the left kidney, measuring approximately 30 x 40 mm. Another focus of low attenuation is noted near the proximal jejunum. Right lower lobe collapse is noted along with a small nodule in the left lung field. There is a right pleural effusion with consolidation. Left pleural effusion is also present. Splenic span is normal. Liver and pancreas appear normal. No significant lymphadenopathy is identified. The kidneys show no evidence of hydronephrosis.
+**Impression:**
+1.  **Left Adrenal Mass:** Large mass in the left adrenal gland, approximately 77 x 57 mm. Differential diagnosis includes metastasis or a primary malignancy such as pheochromocytoma or sarcoma. Correlation with other modalities, including MIBG scintigraphy and ultrasound, is recommended.
+2.  **Left Abdominal Mass:** Soft tissue mass in the left abdominal region, anterior to the left kidney, measuring approximately 30 x 40 mm. This likely represents recurrence or residual disease from a prior neoplasm.
+3.  **Jejunal Wall Thickening:** Focal area of possible jejunal wall thickening, likely representing residual or recurrent tumor.
+4.  **Right Lower Lobe Collapse:** Partial collapse of the right lower lobe of the lung.
+5.  **Pulmonary Nodules:** Small pulmonary nodule in the left lung field.
+6
+------------------------------------------------------------------------------------
+
+4. Persian Report WITH RAG
+======================================================================
+[Document(id='28c29cb7-a66b-4def-9a3f-823fbd7c984e', metadata={'source': 'data_reports\\10103.txt'}, page_content='MULTI\n\nSLICECT SCAN OF THE ABDOMEN AND PELVIS\n\nWITH CONTRAST\n\nThe study was performedadministering oral and intravenous contrast, Sagittal and coronal reconstructed views were also obtained.\n\nMultiple retroperitoneal masses a mentioned in previous study(91/9/28)superior to lt kidney(18*36mm)inferior to lt kidney (31*16mm)lateral to rt kidney (112*71*76mm)still are present and show mild decreased valume\n\nLiver is normal in size, shape and density w\n\nith no space occupying lesion or biliary dilatation.\n\nSpleen and pancreas are also normal with no S.O.L\n\nThe kidneys are opacified with no hydronephrosis.\n\nNo paraaortic or paracaval adenopathy is present.\n\nPelvic organs are normal.\n\nDX:) Retroperitoneal masses)As compared previous study(91/9/28)show mild decreased valume'), Document(id='9218581e-e653-4a72-97e9-aaa5212dfa74', metadata={'source': 'data_reports\\10656.txt'}, page_content='MU\n\nLTISLICECT SCAN OF THE ABDOMEN AND PELVIS\n\nWITH CONTRAST\n\nThe study was performedadministering oral and intravenous contrast, Sagittal and coronal reconstructed views were also obtained.\n\nA large mass lesion approximately measured 77*57mm at the site of lt adren\n\nal gland is seen could be due to metastasis or malignant primary lesion(pheochromo cystoma,sarcoma)\n\nLt pleural effusion and mild pericardiac effusio also are seen\n\nLiver is normal in size, shape and density with no space occupying lesion or biliary dilatation.\n\nSpleen and pancreas are also normal with no S.O.L\n\nThe kidneys are opacified with no hydronephrosis.\n\nA simple cyst (20mm)in lt kidney is seen\n\nNo paraaortic or paracaval adenopathy is present.\n\nPelvic organs are normal.\n\nDX:Lt adrenal mass'), Document(id='d558bb36-aaa2-4adb-a0ed-c02c7240599a', metadata={'source': 'data_reports\\10058.txt'}, page_content='MULTI\n\nSLICECT SCAN OF THE ABDOMEN AND PELVIS\n\nWITH CONTRAST\n\nThe study was performedadministering oral and intravenous contrast, Sagittal and coronal reconstructed views were also obtained.\n\nA soft tissue mass approximately measured 108*56mm with peripheral fat strandying in favoure of peritoneal and mesantric seeding of tumor in the left sided of abdomen is seen.\n\nA focal ass\n\nymetric mass like wall thickening of part of jejunalloop in central of abdomen at the level L4 vertebral body approximately measured 39*15mm also is noted most likely due to residual tumor.\n\nLiver is normal in size, shape and density with no space occupying lesion or biliary dilatation.\n\nSpleen and pancreas are also normal with no S.O.L\n\nThe kidneys are opacified with no hydronephrosis.\n\nNo paraaortic or paracaval adenopathy is present.\n\nPelvic organs are normal.\n\nDX:)Recurrance/residual tumor\n\n)Local mesa\n\nnteric and peritoneal seeding in Lt sided of abdomen'), Document(id='b6cda4f9-dd10-4b9c-a822-92cbfb0f1202', metadata={'source': 'data_reports\\10620.txt'}, page_content='MU\n\nLTISLICECT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.\n\nRt pleural effusion with partial collapse with considation (band like)of RLL are seen\n\nA subpleural nodule with diameter of 14mm in midzone of lt hemithorax is noted\n\nOtherwise of the study are unremarkable\n\nDX:)RLL partial collapse and bank like opacities)Rt pleural effusion\n\n3)SPN in lt lunge'), Document(id='a2eae3df-a8f0-4cb3-aed4-e00814d928a7', metadata={'source': 'data_reports\\10595.txt'}, page_content='MU\n\nLTISLICECT SCAN OF THE ABDOMEN AND PELVIS\n\nWITH CONTRAST\n\nThe study was performedadministering oral and intravenous contrast, Sagittal and coronal reconstructed views were also obtained.\n\nA soft tissue mass like lesion about 30*40mm at lt side (anteromedial lt kidney)of abdomen justifable with residue/recurrance tumor are seen\n\nSpan of spleen is 77mm(high normal)\n\nLiver is normal in size, shape and density with no space occupying lesion or biliary dilatation.\n\nThe kidneys are opacified with no hydronephrosis.\n\nNo paraaortic or paracaval adenopathy is present.\n\nPelvic organs are normal.\n\nDX:)R/O residual/recurrance tumor(anterior to lt kidney))Correlation with MIBG scinitigraphy and sonographic findinges is\n\nrecommended.')]
+یافته‌ها:
+نتیجه‌گیری:
+```persian
+**گزارش سی تی اسکن شکم و لگن با تری رنگی**
+**تاریخ:** [Insert Date Here]
+**شناسه پرونده:** [Insert Patient ID Here]
+**سابقه بیماری:**
+*   مطالعه با تزریق خوراکی و وریدی تری رنگی انجام شد. تصاویر رتروگرادی و رادیوگرافی میانی نیز به دست آمدند.
+*   بر اساس گزارش‌های قبلی (91/9/28، 10656، 10058)، چندین توده رتروپاریتالی در بالای کلیه چپ (18*36 میلی متر) و زیر کلیه چپ (31*16 میلی متر) و کنار کلیه راست (112*71*76 میلی متر) وجود دارند که حجم آن‌ها اندکی کاهش یافته است.
+**نتایج تصویربرداری:**
+*   **کلیه‌ها:** کلیه‌ها با توری مناسب هستند و هیچ هیدронеفروزیس مشاهده نمی‌شود.
+*   **کبد:** کبد در اندازه، شکل و چگالی نرمال است و هیچ لژیون اشغال کننده یا دباست بزرگ مثانه وجود ندارد.
+*   **اسپرم:** اسپرم و پانکراس همگی نرمال هستند و هیچ S.O.L وجود ندارد.
+*   **ادرار:** ادرارها با توری مناسب هستند.
+*   **پارازومیل و پاراکاول:** هیچ آدنوپاتی پارازومیل یا پاراکاول وجود ندارد.
+*   **سازهای تناسلی لگنی:** سازهای تناسلی لگنی نرمال هستند.
+**توضیحات ویژه:**
+*   یک توده بزرگ حدوداً 77*57 میلی متری در محل غده آدرنال چپ مشاهده می‌شود و می‌تواند ناشی از متاستاز یا یک اولیه بدخیم (فیوچروما سیتوما، سرکوم) باشد.
+*   آبریز چپ و کمی اکسیژناسیون پریکارد دیده می‌شود.
+*   یک توده نرم‌تشی حدوداً 108*56 میلی متری با رشته‌ی چربی محصور در ناحیهٔ پشتی (پریتونی و مه‌آنجتری) در سمت چپ شکم دیده می‌شود.
+*   یک توده کوچک مانند ض
+------------------------------------------------------------------------------------
+
+RAG EVALUATION RESULTS
+======================================================================
+English Jaccard Similarity (NoRAG vs RAG): 0.09
+Persian Jaccard Similarity (NoRAG vs RAG): 0.05
+Medical Terms in English NoRAG: 12
+Medical Terms in English RAG: 10
+Medical Terms in Persian NoRAG: 2
+Medical Terms in Persian RAG: 10
+======================================================================

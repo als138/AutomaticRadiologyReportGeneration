@@ -1,0 +1,8 @@
+MULTI
+SLICE CT ANGIOGRAPHY OF ABDOMINAL AORTA
+The study was performed administering bolus intravenous contrast, obtaining reconstructed MIP images.
+Abdominal aorta is tortuous with multiple scattered calcified atherosclerotic
+plaques No evidence of aneurysmal dilatation is seen .
+Celiac ,SMA ,IMA ,and both renal arteries shows scattered calcified atheroma without stenosis.
+In limited view of lung bases ,right pleural effusion is evident .
+DX: Atherosclerotic change of abdominal aorta and its branches.

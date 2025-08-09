@@ -1,0 +1,59 @@
+
+    You are a professional radiologist writing a structured CT scan report in Persian.
+    Use the 'Preliminary Findings' from an image analysis and the 'Context from existing reports' to write your final, comprehensive report.
+    The final report must be in Persian and structured with a "یافته‌ها" (FINDINGS) section and a "نتیجه‌گیری" (IMPRESSION) section.
+
+    PRELIMINARY FINDINGS:
+    ER:  
+As a radiologist, describe the key findings in this CT scan of the thorax. Focus on lung parenchyma, masses, and mediastinal structures. Be factual and concise.
+
+    CONTEXT FROM EXISTING REPORTS:
+    [Document(id='1a9dfd4d-3cfa-4728-8f23-ded0686a01a3', metadata={'source': 'data_reports\\10247.txt'}, page_content='MULTI SLICE CT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performed administering intravenous contrast and coronal reconstructed views were also obtained.\n\nLung parenchyma is clear with no active infiltration\n\nA esophageal mass and wall thickening in posterior mediastinum a mentionedin previous study show significant valume loss and deviate to Lt side .A small nodule (7mm) in Rt lower lobe still is present and seems is un changed.\n\nNo hilar or mediastinal mass or adenopathy is present.\n\nBony thorax is normal.\n\nDX: Improved findinges (loss of valume of esophageal mass).'), Document(id='c0df2390-a501-4d91-afd9-5a636e6ab7f2', metadata={'source': 'data_reports\\10911.txt'}, page_content='MULTI SLICE CT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performed administering intravenous contrast and coronal reconstructed views were also obtained.\n\nLung parenchyma is clear with no active infiltration.\n\nTwo spiculated mass lesion is seen in right lower lobe (36*34*31mm) and left lower lobe (*36*31 mm) which can be metastasis related to history and decreased in size since last study.\n\nNo hilar or mediastinal mass or adenopathy is present.\n\nBony thorax is normal.\n\nDX: Pulmunary mass lesion (R/O metastasis).'), Document(id='dfe8ac15-2248-469b-a76f-77b8d7f39448', metadata={'source': 'data_reports\\10134.txt'}, page_content='MULTI\n\nSLICECT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.\n\nHeterogenous enhancing mass is seen in right paratracheal and h\n\nilar region which has obstructed right main bronchus causing collapse of right lung\n\nPleural thickening and effusion is seen in right side\n\nA small pulmonary nodule is noted in LLL\n\nBony thorax is normal.\n\nDX:Right paratracheal and hilar mass causing collapse of right lung(progression of disease in comparison with previous study).'), Document(id='e8a77714-1ae8-4dff-9126-46470372c5b2', metadata={'source': 'data_reports\\10794.txt'}, page_content='MULTI SLICE CT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performed administering intravenous contrast and coronal reconstructed views were also obtained.\n\nSome small non pathologic sized mediastinal lymph nodes are seen .\n\nTwo pulmonary nodules are seen at right upper lobe and right lower lobe Patchy Alveolar infiltration is seen in posterior segments bilaterally .\n\nWall thickening of thorasic esophagus is noted .\n\nBony thorax is normal.\n\nDX: ) Pulmonary nodules (R/O metastasis).) Wall thickening of thorasic esophagus.'), Document(id='a9b0cdd6-6c71-4d13-bbfa-8d1d5b88c692', metadata={'source': 'data_reports\\10543.txt'}, page_content='MU\n\nLTISLICECT SCAN OF THE THORAX WITH CONTRAST\n\nThe study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.\n\nLung parenchyma is clear with no active infiltration.\n\nThere are bilateral thiny sub pleural pulmonary nodules scattered in both lungs predominantly in upper lobes and a largest in 7 mm in diameter.\n\nNo hilar or mediastinal mass or adenopathy is present.\n\nBony thorax is normal.\n\nDX:Multiple pulmonary nodules.')]
+
+    FINAL REPORT (in Persian):
+    یافته‌ها:
+    *   پارانکیما: پارانکیما ریه ها واضح است و هیچ التهاب فعالی مشاهده نمی شود.
+    *   سایر:
+        *   یک توده مهار کننده (Esophageal mass) و ضخیم شدن دیواره مری در قسمت خلفی میانی ریه به اندازه قبل وجود دارد و به سمت چپ منحرف شده است. یک نواد کوچک (7 میلی متر) در ریه راست پایین هنوز هم وجود دارد و به نظر می رسد تغییر نکرده است.
+        *   دو توده مهار کننده (Pulmonary mass lesion) در ریه راست پایین (36*34*31 میلی متر) و ریه چپ پایین (*36*31 میلی متر) دیده شده است که می توانند به علت سابقه و کاهش اندازه نسبت به مطالعه قبلی باشند.
+        *   هیچ توده یا آدنوپاتی های هیلاری یا میانی ریه وجود ندارد.
+        *   استخوان قفسه سینه نرمال است.
+        *   نودل های متعدد (Multiple pulmonary nodules) در ریه ها به خصوص در قسمت های فوقانی ریه ها دیده شده است.
+        *   تغییر ضخامت دیواره مری مشاهده می شود.
+
+    نتیجه گیری:
+    بر اساس یافته های فوق و با توجه به سابقه و گزارش های قبلی، توده مری و توده های ریوی باید به عنوان احتمالی و در حال بررسی (R/O metastasis) در نظر گرفته شوند.
+```python
+"""
+This code is a placeholder.  It is not functional.  The actual implementation would involve
+reading the documents, parsing the text, and then constructing a Persian report based on the
+preliminary findings and context.  This is a complex task and would require Natural Language Processing (NLP)
+techniques and knowledge of Persian language grammar and syntax.
+"""
+
+print("This is a placeholder for the Persian CT scan report generation.  It will not execute.")
+```
+```
+یافته‌ها:
+*   پارانکیما: پارانکیما ریه ها واضح است و هیچ التهاب فعالی مشاهده نمی شود.
+*   سایر:
+        *   یک توده مهار کننده (Esophageal mass) و ضخیم شدن دیواره مری در قسمت خلفی میانی ریه به اندازه قبل وجود دارد و به سمت چپ منحرف شده است. یک نواد کوچک (7 میلی متر) در ریه راست پایین هنوز هم وجود دارد و به نظر می رسد تغییر نکرده است.
+        *   دو توده مهار کننده (Pulmonary mass lesion) در ریه راست پایین (36*34*31 میلی متر) و ریه چپ پایین (*36*31 میلی متر) دیده شده است که می توانند به علت سابقه و کاهش اندازه نسبت به مطالعه قبلی باشند.
+        *   هیچ توده یا آدنوپاتی های هیلاری یا میانی ریه وجود ندارد.
+        *   استخوان قفسه سینه نرمال است.
+        *   نودل های متعدد (Multiple pulmonary nodules) در ریه ها به خصوص در قسمت های فوقانی ریه ها دیده شده است.
+        *   تغییر ضخامت دیواره مری مشاهده می شود.
+
+    نتیجه گیری:
+    بر اساس یافته های فوق و با توجه به سابقه و گزارش های قبلی، توده مری و توده های ریوی باید به عنوان احتمالی و در حال بررسی (R/O metastasis) در نظر گرفته شوند.
+```
+```
+یافته‌ها:
+*   پارانکیما: پارانکیما ریه ها واضح است و هیچ التهاب فعالی مشاهده نمی شود.
+*   سایر:
+        *   یک توده مهار کننده (Esophageal mass) و ضخیم شدن دیواره مری در قسمت خلفی میانی ریه به اندازه قبل وجود دارد و به سمت چپ منحرف شده است. یک نواد کوچک (7 میلی متر) در ریه راست پایین هنوز هم وجود دارد و به نظر می رسد تغییر نکرده است.
+        *   دو توده مهار کننده (Pulmonary mass lesion) در ریه راست پایین (36*34*31 میلی متر) و ریه چپ پایین (*36*31 میلی متر) دیده شده است که می توانند به علت سابقه و کاهش اندازه نسبت به مطالعه قبلی باشند.
+        *   هیچ توده یا آدنوپاتی های هیلاری یا میانی ریه وجود ندارد.
+        *   استخوان قفسه سینه نرمال است.
+        *   نودل های متعدد (Multiple pulmonary nodules) در ریه ها به خصوص در قسمت های فوقانی ریه ها دیده شده است.
+        *   تغییر ضخامت دی

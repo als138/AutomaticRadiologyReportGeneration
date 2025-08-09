@@ -1,0 +1,16 @@
+# Requirements for GLiNER Model Testing
+
+# PyTorch (برای GPU)
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# GLiNER
+git+https://github.com/urchade/GLiNER.git
+
+# Basic dependencies
+numpy>=1.21.0
+transformers>=4.20.0
+
+# Optional dependencies
+ipywidgets>=7.6.0

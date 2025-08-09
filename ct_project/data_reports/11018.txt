@@ -1,0 +1,8 @@
+MULTI
+SLICECT SCAN OF THE THORAX WITH CONTRAST
+The study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.
+Lung parenchyma is clear with no active infiltration.
+No mass lesion is seen as primary or secondary in lung field.
+There is a soft tissue density (24*18 mm) in pretracheal space suggests lymphadenopathy.
+Bony thorax is normal.
+DX:A lymphadenopathy in pretracheal space (24*18 mm) .

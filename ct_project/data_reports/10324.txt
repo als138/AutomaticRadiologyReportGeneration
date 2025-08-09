@@ -1,0 +1,8 @@
+MULTI
+SLICE CT SCAN OFTHE CHEST WITHOUT CONTRAST
+The study was performedin axial views obtaining coronal reconstructed views.Lung parenchyma is clear with no active infiltration.
+No hilar or mediastinal mass or adenopathy is present.
+No mass lesion is seen as primary or secondary in lung fields.
+Bony thorax is normal.
+A thiny nodule (6mm) in Apical segment of RLL is seen.
+DX:RLL thiny nodule.

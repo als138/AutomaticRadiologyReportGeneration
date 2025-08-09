@@ -1,0 +1,8 @@
+MULTI
+SLICE CT ANGIOGRAPHY OF THE BRAIN WITH CONTRAST
+The study was performed administering bolus intravenous contrast, obtaining MPR,MIP and VRT images.
+Internal carotid, middle and anterior cerebral arteries are well opacified with no abnormality as stenosis or aneurysm.
+Vertebrobasiler and posterior cerebral arteries are also normal with no aneurysm.
+P1 segment of right PCA is hypoplastic and P2 segment is filled via posterior communicating artery
+No feeding artery IV the left ptrygopalatine fossa mass is seen
+DX:Agenesis of P1 segment of right PCA,otherwise normal study.

@@ -1,0 +1,9 @@
+MULTI
+SLICECT SCAN OF THE THORAX WITH CONTRAST
+The study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.
+Lung parenchyma is clear with no active infiltration.
+No mass lesion is seen as primary or secondary in lung field.
+No hilar or mediastinal mass is present.
+Left hilar adenopathy which is seen in last study is not seen now.
+Bony thorax is normal.
+DX:Normal study of the chest.

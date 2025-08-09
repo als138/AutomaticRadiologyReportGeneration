@@ -1,0 +1,7 @@
+MULTI
+SLICECT SCAN OF THE THORAX WITH CONTRAST
+The study was performedadministering intravenous contrast and coronal reconstructed views were also obtained.
+Enlarged lymph nodes are seen in both axillary cavities,base of neck,middle and posterior mediastineum and both hilar regions
+A few small scattered nodules are noted in apex of both lungs
+Bony thorax is normal.
+DX:Axillary,cervical and mediastineal adenopathy (R/O lymphoma,leukemia)

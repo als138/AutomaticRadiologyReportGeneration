@@ -1,0 +1,83 @@
+
+    Imagine you are a doctor and you have been given only one radiological image. Write a report based ONLY on this single image that has been provided to you. Do not report or include in your report any additional data that is outside of this image and cannot be observed in the image.
+
+    IMAGE FINDINGS:
+    ER:  
+As a radiologist, describe the key findings in this CT scan of the thorax. Focus on lung parenchyma, masses, and mediastinal structures. Be factual and concise.
+
+    FINAL REPORT (in Persian):
+    بررسی تصویر CT قفسه سینه:
+
+    *   **پوشش ریه:** (Describe the lung parenchyma, noting any consolidation, nodules, masses, or interstitial changes. Be specific about the location and size of any abnormalities.)
+
+    *   **توده ها:** (Describe any masses seen in the lungs, including their location, size, shape, and density. If there are multiple masses, describe them individually.)
+
+    *   **ساختار میانی:** (Describe the mediastinal structures, including the heart, great vessels, trachea, and esophagus. Note any abnormalities such as masses, enlarged lymph nodes, or displacement of structures.)
+
+    *   **نتیجه گیری:** (Summarize your findings in a concise statement. Suggest further investigations if necessary.)
+
+    **REPORT (in English):**
+
+    Radiological Image Review: Chest CT
+
+    *   **Lung Parenchyma:** (Describe the lung parenchyma, noting any consolidation, nodules, masses, or interstitial changes. Be specific about the location and size of any abnormalities.)
+    *   **Masses:** (Describe any masses seen in the lungs, including their location, size, shape, and density. If there are multiple masses, describe them individually.)
+    *   **Mediastinal Structures:** (Describe the mediastinal structures, including the heart, great vessels, trachea, and esophagus. Note any abnormalities such as masses, enlarged lymph nodes, or displacement of structures.)
+    *   **Conclusion:** (Summarize your findings in a concise statement. Suggest further investigations if necessary.)
+
+    **Remember to replace the bracketed information with your actual findings from the image.**
+    **Example:**
+    *   **Lung Parenchyma:** There is a 2 cm nodule in the left upper lobe.
+    *   **Masses:** There is a 3 cm mass in the right lower lobe.
+    *   **Mediastinal Structures:** The heart size is normal. The great vessels are unremarkable.
+    *   **Conclusion:** A 2 cm nodule and a 3 cm mass are present in the lungs. Further evaluation with PET/CT is recommended.
+
+**Instructions:**
+
+1.  **Carefully examine the provided image.**
+2.  **Identify any abnormalities in the lung parenchyma, masses, and mediastinal structures.**
+3.  **Describe these abnormalities in detail, including their location, size, shape, and density.**
+4.  **Write a concise and factual report in Persian (Farsi) based on your findings.**
+5.  **Write a concise and factual report in English based on your findings.**
+6.  **Replace the bracketed information with your actual findings.**
+
+**Important Considerations:**
+
+*   **Accuracy:** Your report should be accurate and based solely on the information provided in the image.
+*   **Objectivity:** Avoid subjective interpretations and focus on objective findings.
+*   **Conciseness:** Be concise and avoid unnecessary details.
+*   **Medical Terminology:** Use appropriate medical terminology.
+*   **Ethical Considerations:** Remember that this is a hypothetical scenario and you should not use this information for actual medical diagnosis or treatment.
+
+**Please provide the provided image so I can write the report.**
+```python
+def generate_report(image_data):
+    """
+    Generates a radiological report based on the image data.
+
+    Args:
+        image_data: A string representing the image data (e.g., a description of the image findings).
+
+    Returns:
+        A string containing the Persian and English reports.
+    """
+
+    # Basic report structure (replace with actual findings)
+    report_persian = """
+    بررسی تصویر CT قفسه سینه:
+
+    *   **پوشش ریه:** (Describe the lung parenchyma, noting any consolidation, nodules, masses, or interstitial changes. Be specific about the location and size of any abnormalities.)
+
+    *   **توده ها:** (Describe any masses seen in the lungs, including their location, size, shape, and density. If there are multiple masses, describe them individually.)
+
+    *   **ساختار میانی:** (Describe the mediastinal structures, including the heart, great vessels, trachea, and esophagus. Note any abnormalities such as masses, enlarged lymph nodes, or displacement of structures.)
+
+    *   **نتیجه گیری:** (Summarize your findings in a concise statement. Suggest further investigations if necessary.)
+    """
+
+    report_english = """
+    Radiological Image Review: Chest CT
+
+    *   **Lung Parenchyma:** (Describe the lung parenchyma, noting any consolidation, nodules, masses, or interstitial changes. Be specific about the location and size of any abnormalities.)
+    *   **Masses:** (Describe any masses seen in the lungs, including their location, size, shape, and density. If there are multiple masses, describe them individually.)
+    
