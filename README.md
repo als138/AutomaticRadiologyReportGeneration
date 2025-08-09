@@ -173,4 +173,3 @@ See the `LICENSE` file in the repository for more details.
 - Include **Badge Icons** (e.g. CI status, test coverage, version) at the top  
 - Add sections like **Contribution Guidelines** or **Code of Conduct**
 
-If you'd like help with any of the above (such as adding badges or example screenshots), just let me know—I’d be happy to assist! 😊
